@@ -1925,7 +1925,7 @@ void nanny(struct descriptor_data *d, char *arg)
             init_char(d->character);
             save_char(d->character);
             save_player_index();
-            write_to_output(d, "%s\r\n*** PRESS RETURN: ", motd);
+            write_to_output(d, "%s\r\n*** PRESS RETURN: \r\n", motd);
             STATE(d) = CON_RMOTD;
             /* make sure the last log is updated correctly. */
             GET_PREF(d->character) = rand_number(1, 128000);

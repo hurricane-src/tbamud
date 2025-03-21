@@ -198,7 +198,7 @@ void gettimeofday(struct timeval *t, struct timezone *dummy)
 
 #endif /* CIRCLE_WINDOWS || CIRCLE_MACINTOSH */
 
-int main(int argc, char **argv)
+int main(int argc, char *argv[])
 {
     int         pos = 1;
     const char *dir;
@@ -1405,6 +1405,7 @@ static char *make_prompt(struct descriptor_data *d)
             }
         }
 
+#if DISPLAY_NEWS_PROMPT
         if(GET_LAST_NEWS(d->character) < newsmod)
         {
             count = snprintf(prompt + len, sizeof(prompt) - len, "(news) ");
@@ -1413,7 +1414,9 @@ static char *make_prompt(struct descriptor_data *d)
                 len += count;
             }
         }
+#endif
 
+#if DISPLAY_MOTD_PROMPT
         if(GET_LAST_MOTD(d->character) < motdmod)
         {
             count = snprintf(prompt + len, sizeof(prompt) - len, "(motd) ");
@@ -1422,6 +1425,7 @@ static char *make_prompt(struct descriptor_data *d)
                 len += count;
             }
         }
+#endif
 
         if(len < sizeof(prompt))
         {
