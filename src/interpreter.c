@@ -1366,7 +1366,7 @@ static int perform_dupe_check(struct descriptor_data *d)
             mudlog(NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(d->character)), TRUE, "%s has re-logged in ... disconnecting old socket.", GET_NAME(d->character));
             break;
         case UNSWITCH:
-            write_to_output(d, "Reconnecting to unswitched char.");
+            write_to_output(d, "Reconnecting to unswitched char.\r\n");
             mudlog(NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(d->character)), TRUE, "%s [%s] has reconnected.", GET_NAME(d->character), d->host);
             break;
     }
@@ -1615,7 +1615,7 @@ void nanny(struct descriptor_data *d, char *arg)
 
                 if((_parse_name(arg, tmp_name)) || strlen(tmp_name) < 2 || strlen(tmp_name) > MAX_NAME_LENGTH || !valid_name(tmp_name) || fill_word(strcpy(buf, tmp_name)) || reserved_word(buf))
                 { /* strcpy: OK (mutual MAX_INPUT_LENGTH) */
-                    write_to_output(d, "Invalid name, please try another.\r\nName: ");
+                    write_to_output(d, "Invalid name, please try another.\r\nName: \r\n");
                     return;
                 }
                 if((player_i = load_char(tmp_name, d->character)) > -1)
@@ -1637,7 +1637,7 @@ void nanny(struct descriptor_data *d, char *arg)
                         /* Check for multiple creations. */
                         if(!valid_name(tmp_name))
                         {
-                            write_to_output(d, "Invalid name, please try another.\r\nName: ");
+                            write_to_output(d, "Invalid name, please try another.\r\nName: \r\n");
                             return;
                         }
                         CREATE(d->character, struct char_data, 1);
@@ -1656,7 +1656,7 @@ void nanny(struct descriptor_data *d, char *arg)
                         CREATE(d->character->player.name, char, strlen(tmp_name) + 1);
                         strcpy(d->character->player.name, CAP(tmp_name)); /* strcpy: OK (size checked above) */
                         GET_PFILEPOS(d->character) = player_i;
-                        write_to_output(d, "Did I get that right, %s (\t(Y\t)/\t(N\t))? ", tmp_name);
+                        write_to_output(d, "Did I get that right, %s (\t(Y\t)/\t(N\t))? \r\n", tmp_name);
                         STATE(d) = CON_NAME_CNFRM;
                     }
                     else
@@ -1666,7 +1666,7 @@ void nanny(struct descriptor_data *d, char *arg)
                         REMOVE_BIT_AR(PLR_FLAGS(d->character), PLR_MAILING);
                         REMOVE_BIT_AR(PLR_FLAGS(d->character), PLR_CRYO);
                         d->character->player.time.logon = time(0);
-                        write_to_output(d, "Password: ");
+                        write_to_output(d, "Password: \r\n");
                         echo_off(d);
                         d->idle_tics = 0;
                         STATE(d) = CON_PASSWORD;
@@ -1679,13 +1679,13 @@ void nanny(struct descriptor_data *d, char *arg)
                     /* Check for multiple creations of a character. */
                     if(!valid_name(tmp_name))
                     {
-                        write_to_output(d, "Invalid name, please try another.\r\nName: ");
+                        write_to_output(d, "Invalid name, please try another.\r\nName: \r\n");
                         return;
                     }
                     CREATE(d->character->player.name, char, strlen(tmp_name) + 1);
                     strcpy(d->character->player.name, CAP(tmp_name)); /* strcpy: OK (size checked above) */
 
-                    write_to_output(d, "Did I get that right, %s (\t(Y\t)/\t(N\t))? ", tmp_name);
+                    write_to_output(d, "Did I get that right, %s (\t(Y\t)/\t(N\t))? \r\n", tmp_name);
                     STATE(d) = CON_NAME_CNFRM;
                 }
             }
@@ -1709,20 +1709,20 @@ void nanny(struct descriptor_data *d, char *arg)
                     return;
                 }
                 perform_new_char_dupe_check(d);
-                write_to_output(d, "New character.\r\nGive me a password for %s: ", GET_PC_NAME(d->character));
+                write_to_output(d, "New character.\r\nGive me a password for %s: \r\n", GET_PC_NAME(d->character));
                 echo_off(d);
                 STATE(d) = CON_NEWPASSWD;
             }
             else if(*arg == 'n' || *arg == 'N')
             {
-                write_to_output(d, "Okay, what IS it, then? ");
+                write_to_output(d, "Okay, what IS it, then? \r\n");
                 free(d->character->player.name);
                 d->character->player.name = NULL;
                 STATE(d) = CON_GET_NAME;
             }
             else
             {
-                write_to_output(d, "Please type Yes or No: ");
+                write_to_output(d, "Please type Yes or No: \r\n");
             }
             break;
 
@@ -1758,7 +1758,7 @@ void nanny(struct descriptor_data *d, char *arg)
                     }
                     else
                     {
-                        write_to_output(d, "Wrong password.\r\nPassword: ");
+                        write_to_output(d, "Wrong password.\r\nPassword: \r\n");
                         echo_off(d);
                     }
                     return;
@@ -1791,11 +1791,11 @@ void nanny(struct descriptor_data *d, char *arg)
 
                 if(GET_LEVEL(d->character) >= LVL_IMMORT)
                 {
-                    write_to_output(d, "%s", imotd);
+                    write_to_output(d, "%s\r\n", imotd);
                 }
                 else
                 {
-                    write_to_output(d, "%s", motd);
+                    write_to_output(d, "%s\r\n", motd);
                 }
 
                 if(GET_INVIS_LEV(d->character))
@@ -1824,7 +1824,7 @@ void nanny(struct descriptor_data *d, char *arg)
                                     CCNRM(d->character, C_SPR));
                     GET_BAD_PWS(d->character) = 0;
                 }
-                write_to_output(d, "\r\n*** PRESS RETURN: ");
+                write_to_output(d, "\r\n*** PRESS RETURN: \r\n");
                 STATE(d) = CON_RMOTD;
             }
             break;
@@ -1833,13 +1833,13 @@ void nanny(struct descriptor_data *d, char *arg)
         case CON_CHPWD_GETNEW:
             if(!*arg || strlen(arg) > MAX_PWD_LENGTH || strlen(arg) < 3 || !str_cmp(arg, GET_PC_NAME(d->character)))
             {
-                write_to_output(d, "\r\nIllegal password.\r\nPassword: ");
+                write_to_output(d, "\r\nIllegal password.\r\nPassword: \r\n");
                 return;
             }
             strncpy(GET_PASSWD(d->character), CRYPT(arg, GET_PC_NAME(d->character)), MAX_PWD_LENGTH); /* strncpy: OK (G_P:MAX_PWD_LENGTH+1) */
             *(GET_PASSWD(d->character) + MAX_PWD_LENGTH) = '\0';
 
-            write_to_output(d, "\r\nPlease retype password: ");
+            write_to_output(d, "\r\nPlease retype password: \r\n");
             if(STATE(d) == CON_NEWPASSWD)
             {
                 STATE(d) = CON_CNFPASSWD;
@@ -1854,7 +1854,7 @@ void nanny(struct descriptor_data *d, char *arg)
         case CON_CHPWD_VRFY:
             if(strncmp(CRYPT(arg, GET_PASSWD(d->character)), GET_PASSWD(d->character), MAX_PWD_LENGTH))
             {
-                write_to_output(d, "\r\nPasswords don't match... start over.\r\nPassword: ");
+                write_to_output(d, "\r\nPasswords don't match... start over.\r\nPassword: \r\n");
                 if(STATE(d) == CON_CNFPASSWD)
                 {
                     STATE(d) = CON_NEWPASSWD;
@@ -1869,13 +1869,13 @@ void nanny(struct descriptor_data *d, char *arg)
 
             if(STATE(d) == CON_CNFPASSWD)
             {
-                write_to_output(d, "\r\nWhat is your sex (\t(M\t)/\t(F\t))? ");
+                write_to_output(d, "\r\nWhat is your sex (\t(M\t)/\t(F\t))? \r\n");
                 STATE(d) = CON_QSEX;
             }
             else
             {
                 save_char(d->character);
-                write_to_output(d, "\r\nDone.\r\n%s", CONFIG_MENU);
+                write_to_output(d, "\r\nDone.\r\n%s\r\n", CONFIG_MENU);
                 STATE(d) = CON_MENU;
             }
             break;
@@ -1898,7 +1898,7 @@ void nanny(struct descriptor_data *d, char *arg)
                     return;
             }
 
-            write_to_output(d, "%s\r\nClass: ", class_menu);
+            write_to_output(d, "%s\r\nClass: \r\n", class_menu);
             STATE(d) = CON_QCLASS;
             break;
 
@@ -1906,7 +1906,7 @@ void nanny(struct descriptor_data *d, char *arg)
             load_result = parse_class(*arg);
             if(load_result == CLASS_UNDEFINED)
             {
-                write_to_output(d, "\r\nThat's not a class.\r\nClass: ");
+                write_to_output(d, "\r\nThat's not a class.\r\nClass: \r\n");
                 return;
             }
 
@@ -1941,7 +1941,7 @@ void nanny(struct descriptor_data *d, char *arg)
             break;
 
         case CON_RMOTD: /* read CR after printing motd   */
-            write_to_output(d, "%s", CONFIG_MENU);
+            write_to_output(d, "%s\r\n", CONFIG_MENU);
             if(IS_HAPPYHOUR > 0)
             {
                 write_to_output(d, "\r\n");
@@ -2005,7 +2005,7 @@ void nanny(struct descriptor_data *d, char *arg)
                 case '2':
                     if(d->character->player.description)
                     {
-                        write_to_output(d, "Current description:\r\n%s", d->character->player.description);
+                        write_to_output(d, "Current description:\r\n%s\r\n", d->character->player.description);
                         /* Don't free this now... so that the old description gets loaded as the
                          * current buffer in the editor.  Do setup the ABORT buffer here, however. */
                         d->backstr = strdup(d->character->player.description);
@@ -2023,19 +2023,19 @@ void nanny(struct descriptor_data *d, char *arg)
                     break;
 
                 case '4':
-                    write_to_output(d, "\r\nEnter your old password: ");
+                    write_to_output(d, "\r\nEnter your old password: \r\n");
                     echo_off(d);
                     STATE(d) = CON_CHPWD_GETOLD;
                     break;
 
                 case '5':
-                    write_to_output(d, "\r\nEnter your password for verification: ");
+                    write_to_output(d, "\r\nEnter your password for verification: \r\n");
                     echo_off(d);
                     STATE(d) = CON_DELCNF1;
                     break;
 
                 default:
-                    write_to_output(d, "\r\nThat's not a menu choice!\r\n%s", CONFIG_MENU);
+                    write_to_output(d, "\r\nThat's not a menu choice!\r\n%s\r\n", CONFIG_MENU);
                     break;
             }
             break;
@@ -2045,12 +2045,12 @@ void nanny(struct descriptor_data *d, char *arg)
             if(strncmp(CRYPT(arg, GET_PASSWD(d->character)), GET_PASSWD(d->character), MAX_PWD_LENGTH))
             {
                 echo_on(d);
-                write_to_output(d, "\r\nIncorrect password.\r\n%s", CONFIG_MENU);
+                write_to_output(d, "\r\nIncorrect password.\r\n%s\r\n", CONFIG_MENU);
                 STATE(d) = CON_MENU;
             }
             else
             {
-                write_to_output(d, "\r\nEnter a new password: ");
+                write_to_output(d, "\r\nEnter a new password: \r\n");
                 STATE(d) = CON_CHPWD_GETNEW;
             }
             return;
@@ -2059,7 +2059,7 @@ void nanny(struct descriptor_data *d, char *arg)
             echo_on(d);
             if(strncmp(CRYPT(arg, GET_PASSWD(d->character)), GET_PASSWD(d->character), MAX_PWD_LENGTH))
             {
-                write_to_output(d, "\r\nIncorrect password.\r\n%s", CONFIG_MENU);
+                write_to_output(d, "\r\nIncorrect password.\r\n%s\r\n", CONFIG_MENU);
                 STATE(d) = CON_MENU;
             }
             else
@@ -2067,7 +2067,7 @@ void nanny(struct descriptor_data *d, char *arg)
                 write_to_output(d,
                                 "\r\nYOU ARE ABOUT TO DELETE THIS CHARACTER PERMANENTLY.\r\n"
                                 "ARE YOU ABSOLUTELY SURE?\r\n\r\n"
-                                "Please type \"yes\" to confirm: ");
+                                "Please type \"yes\" to confirm: \r\n");
                 STATE(d) = CON_DELCNF2;
             }
             break;
@@ -2108,7 +2108,7 @@ void nanny(struct descriptor_data *d, char *arg)
             }
             else
             {
-                write_to_output(d, "\r\nCharacter not deleted.\r\n%s", CONFIG_MENU);
+                write_to_output(d, "\r\nCharacter not deleted.\r\n%s\r\n", CONFIG_MENU);
                 STATE(d) = CON_MENU;
             }
             break;
