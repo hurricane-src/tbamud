@@ -193,7 +193,7 @@ extern void abort(), exit();
 #ifndef HAVE_STRUCT_IN_ADDR
 struct in_addr {
   unsigned long int s_addr;	/* for inet_addr, etc. */
-}
+};
 #endif
 
 #ifdef HAVE_SYS_SELECT_H

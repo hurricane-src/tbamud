@@ -2396,7 +2396,7 @@ ACMD(do_wizutil)
       act("A sudden fireball conjured from nowhere thaws $n!", FALSE, vict, 0, 0, TO_ROOM);
       break;
     case SCMD_UNAFFECT:
-      if (vict->affected || AFF_FLAGS(vict)) {
+      if (vict->affected || AFF_FLAGS(vict)[0]) { /// @todo 20250321 Hurricane -- I'm assuming it's checking the first 32 bits ...
 	while (vict->affected)
 	  affect_remove(vict, vict->affected);
     for(taeller=0; taeller < AF_ARRAY_MAX; taeller++)

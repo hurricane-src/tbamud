@@ -367,16 +367,16 @@ SPECIAL(king_welmar)
 {
   char actbuf[MAX_INPUT_LENGTH];
 
-  const char *monolog[] = {
+  static const char *monolog[] = {
     "$n proclaims 'Primus in regnis Geticis coronam'.",
     "$n proclaims 'regiam gessi, subiique regis'.",
     "$n proclaims 'munus et mores colui sereno'.",
     "$n proclaims 'principe dignos'."
   };
 
-  const char bedroom_path[] = "s33004o1c1S.";
-  const char throne_path[] = "W3o3cG52211rg.";
-  const char monolog_path[] = "ABCDPPPP.";
+  static const char bedroom_path[] = "s33004o1c1S.";
+  static const char throne_path[] = "W3o3cG52211rg.";
+  static const char monolog_path[] = "ABCDPPPP.";
 
   static const char *path;
   static int path_index;
