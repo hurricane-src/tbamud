@@ -78,8 +78,10 @@ static void prefedit_save_to_char(struct descriptor_data *d)
         }
 
         GET_WIMP_LEV(vict) = OLC_PREFS(d)->wimp_level;
+#if DISPLAY_HAS_DIMENSIONS
         GET_PAGE_LENGTH(vict) = OLC_PREFS(d)->page_length;
         GET_SCREEN_WIDTH(vict) = OLC_PREFS(d)->screen_width;
+#endif
 
         save_char(vict);
     }

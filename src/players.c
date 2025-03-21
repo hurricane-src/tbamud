@@ -330,8 +330,10 @@ int load_char(const char *name, struct char_data *ch)
         GET_MOVE(ch) = PFDEF_MOVE;
         GET_MAX_MOVE(ch) = PFDEF_MAXMOVE;
         GET_OLC_ZONE(ch) = PFDEF_OLC;
+#if DISPLAY_HAS_DIMENSIONS
         GET_PAGE_LENGTH(ch) = PFDEF_PAGELENGTH;
         GET_SCREEN_WIDTH(ch) = PFDEF_SCREENWIDTH;
+#endif
         GET_ALIASES(ch) = NULL;
         SITTING(ch) = NULL;
         NEXT_SITTING(ch) = NULL;
@@ -571,7 +573,9 @@ int load_char(const char *name, struct char_data *ch)
                 case 'P':
                     if(!strcmp(tag, "Page"))
                     {
+#if DISPLAY_HAS_DIMENSIONS
                         GET_PAGE_LENGTH(ch) = atoi(line);
+#endif
                     }
                     else if(!strcmp(tag, "Pass"))
                     {
@@ -642,7 +646,9 @@ int load_char(const char *name, struct char_data *ch)
                     }
                     else if(!strcmp(tag, "ScrW"))
                     {
+#if DISPLAY_HAS_DIMENSIONS
                         GET_SCREEN_WIDTH(ch) = atoi(line);
+#endif
                     }
                     else if(!strcmp(tag, "Skil"))
                     {

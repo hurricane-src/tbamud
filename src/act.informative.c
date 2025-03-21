@@ -2805,7 +2805,9 @@ ACMD(do_toggle)
             }
             else if(is_number(arg2))
             {
+#if DISPLAY_HAS_DIMENSIONS
                 GET_PAGE_LENGTH(ch) = MIN(MAX(atoi(arg2), 5), 255);
+#endif
                 send_to_char(ch, "Okay, your page length is now set to %d lines.", GET_PAGE_LENGTH(ch));
             }
             else
@@ -2820,7 +2822,9 @@ ACMD(do_toggle)
             }
             else if(is_number(arg2))
             {
+#if DISPLAY_HAS_DIMENSIONS
                 GET_SCREEN_WIDTH(ch) = MIN(MAX(atoi(arg2), 40), 200);
+#endif
                 send_to_char(ch, "Okay, your screen width is now set to %d characters.", GET_SCREEN_WIDTH(ch));
             }
             else

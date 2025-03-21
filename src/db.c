@@ -4400,7 +4400,9 @@ void init_char(struct char_data *ch)
     }
 
     GET_LOADROOM(ch) = NOWHERE;
+#if DISPLAY_HAS_DIMENSIONS
     GET_SCREEN_WIDTH(ch) = PAGE_WIDTH;
+#endif
 
     /* Set Beginning Toggles Here */
     SET_BIT_AR(PRF_FLAGS(ch), PRF_AUTOEXIT);

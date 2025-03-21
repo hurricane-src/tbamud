@@ -4025,7 +4025,9 @@ static int perform_set(struct char_data *ch, struct char_data *vict, int mode, c
             char_to_room(vict, rnum);
             break;
         case 44: /* screenwidth */
+#if DISPLAY_HAS_DIMENSIONS
             GET_SCREEN_WIDTH(vict) = RANGE(40, 200);
+#endif
             break;
         case 45: /* sex */
             if((i = search_block(val_arg, genders, FALSE)) < 0)

@@ -601,10 +601,15 @@ void char_from_furniture(struct char_data *ch);
 #define GET_LAST_NEWS(ch)            CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.lastnews))
 /** Get channel history i for ch. */
 #define GET_HISTORY(ch, i)           CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.comm_hist[i]))
+#if DISPLAY_HAS_DIMENSIONS
 /** Return the page length (height) for ch. */
 #define GET_PAGE_LENGTH(ch)          CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.page_length))
 /** Return the page width for ch */
 #define GET_SCREEN_WIDTH(ch)         CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.screen_width))
+#else
+#define GET_PAGE_LENGTH(ch)          128
+#define GET_SCREEN_WIDTH(ch)         128
+#endif
 /* Autoquests data */
 /** Return the number of questpoints ch has. */
 #define GET_QUESTPOINTS(ch)          CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.questpoints))

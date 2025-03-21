@@ -5,6 +5,11 @@
 
 #include <limits.h>
 
+// counter-productive for my current plan
+#define DISPLAY_MOTD_PROMPT 0
+#define DISPLAY_NEWS_PROMPT 0
+#define DISPLAY_HAS_DIMENSIONS 0
+
 /* Define to empty if the keyword does not work.  */
 //#cmakedefine const 1
 

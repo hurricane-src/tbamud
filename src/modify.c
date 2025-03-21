@@ -510,12 +510,13 @@ static char *next_page(char *str, struct char_data *ch)
         {
             return (NULL);
         }
-
+#if DISPLAY_HAS_DIMENSIONS
         /* If we're at the start of the next page, return this fact. */
         else if(line > (GET_PAGE_LENGTH(ch) - (PRF_FLAGGED(ch, PRF_COMPACT) ? 1 : 2)))
         {
             return (str);
         }
+#endif
 
         /* Check for the beginning of an ANSI color code block. */
         else if(*str == '\x1B') /* Jump to the end of the ANSI code, or max 9 chars */
@@ -562,11 +563,15 @@ static char *next_page(char *str, struct char_data *ch)
 /* Function that returns the number of pages in the string. */
 static int count_pages(char *str, struct char_data *ch)
 {
+#if DISPLAY_HAS_DIMENSIONS
     int pages;
 
     for(pages = 1; (str = next_page(str, ch)); pages++)
         ; /* moved semi-colon to suppress warning */
-    return (pages);
+    return pages;
+#else
+    return 1;
+#endif
 }
 
 /* This function assigns all the pointers for showstr_vector for the
@@ -604,10 +609,12 @@ void page_string(struct descriptor_data *d, char *str, int keep_internal)
         return;
     }
 
+#if DISPLAY_HAS_DIMENSIONS
     if(GET_PAGE_LENGTH(d->character) < 5)
     {
         GET_PAGE_LENGTH(d->character) = PAGE_LENGTH;
     }
+#endif
     d->showstr_count = count_pages(str, d->character);
     CREATE(d->showstr_vector, char *, d->showstr_count);
 
