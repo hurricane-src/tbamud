@@ -607,8 +607,8 @@ void char_from_furniture(struct char_data *ch);
 /** Return the page width for ch */
 #define GET_SCREEN_WIDTH(ch)         CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.screen_width))
 #else
-#define GET_PAGE_LENGTH(ch)          128
-#define GET_SCREEN_WIDTH(ch)         128
+#define GET_PAGE_LENGTH(ch)          255
+#define GET_SCREEN_WIDTH(ch)         255
 #endif
 /* Autoquests data */
 /** Return the number of questpoints ch has. */
