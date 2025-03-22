@@ -1137,24 +1137,15 @@ void column_list(struct char_data *ch, int num_cols, const char **list, int list
         }
     }
 
-    /* auto columns case */
+    /* auto     columns case */
     if(num_cols == 0)
     {
-        num_cols = (IS_NPC(ch) ? 80 : GET_SCREEN_WIDTH(ch)) / (max_len + (show_nums ? 5 : 1));
+        num_cols = 12;
     }
 
     /* Ensure that the number of columns is in the range 1-10 */
-    num_cols = MIN(MAX(num_cols, 1), 10);
 
-    /* Calculate the width of each column */
-    if(IS_NPC(ch))
-    {
-        col_width = 80 / num_cols;
-    }
-    else
-    {
-        col_width = (GET_SCREEN_WIDTH(ch)) / num_cols;
-    }
+    col_width = 10;
 
     if(show_nums)
     {
