@@ -646,19 +646,33 @@ void look_at_room(struct char_data *ch, int ignore_brief)
 
     if(!ch->desc)
     {
+#if LOOK_AT_ROOM_HAS_DESCRIPTOR
+        send_to_char(ch, "\002#-:\r\n", rm->number);
+#endif
         return;
     }
 
     if(IS_DARK(IN_ROOM(ch)) && !CAN_SEE_IN_DARK(ch))
     {
+#if LOOK_AT_ROOM_HAS_DESCRIPTOR
+        send_to_char(ch, "\002#-:\r\n", rm->number);
+#endif
         send_to_char(ch, "It is pitch black...\r\n");
         return;
     }
     else if(AFF_FLAGGED(ch, AFF_BLIND) && GET_LEVEL(ch) < LVL_IMMORT)
     {
+#if LOOK_AT_ROOM_HAS_DESCRIPTOR
+        send_to_char(ch, "\002#-:\r\n", rm->number);
+#endif
         send_to_char(ch, "You see nothing but infinite darkness...\r\n");
         return;
     }
+
+#if LOOK_AT_ROOM_HAS_DESCRIPTOR
+    // information for an automaton
+    send_to_char(ch, "\002#%hu:\r\n", rm->number);
+#endif
 
     send_to_char(ch, "%s", CCYEL(ch, C_NRM));
     if(!IS_NPC(ch) && PRF_FLAGGED(ch, PRF_SHOWVNUMS))
