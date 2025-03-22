@@ -1817,7 +1817,7 @@ static int new_descriptor(socket_t s)
     {
         greetsize = strlen(GREETINGS);
         write_to_output(newd, "%s", ProtocolOutput(newd, GREETINGS, &greetsize));
-        write_to_output(newd, "Login:\r\n");
+        write_to_output(newd, "\r\nLogin:\r\n");
     }
     return (0);
 }
