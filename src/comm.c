@@ -1301,24 +1301,26 @@ void echo_on(struct descriptor_data *d)
 
 static char *make_prompt(struct descriptor_data *d)
 {
-    static char prompt[MAX_PROMPT_LENGTH];
+    static char prompt[MAX_PROMPT_LENGTH]; // the program is single-threaded >_>
 
     /* Note, prompt is truncated at MAX_PROMPT_LENGTH chars (structs.h) */
 
     if(d->showstr_count)
     {
-        snprintf(prompt, sizeof(prompt), "[ Return to continue, (q)uit, (r)efresh, (b)ack, or page number (%d/%d) ]\n", d->showstr_page, d->showstr_count);
+        snprintf(prompt, sizeof(prompt), "\001[ Return to continue, (q)uit, (r)efresh, (b)ack, or page number (%d/%d) ]\n", d->showstr_page, d->showstr_count);
     }
     else if(d->str)
     {
-        strcpy(prompt, "] "); /* strcpy: OK (for 'MAX_PROMPT_LENGTH >= 3') */
+        strcpy(prompt, "\001]\n"); /* strcpy: OK (for 'MAX_PROMPT_LENGTH >= 3') */
     }
     else if(STATE(d) == CON_PLAYING && !IS_NPC(d->character))
     {
         int    count;
-        size_t len = 0;
+        size_t len = 2;
 
-        *prompt = '\0';
+        prompt[0] = '\001';
+        prompt[1] = '\n';
+        prompt[2] = '\0';
 
         if(GET_INVIS_LEV(d->character) && len < sizeof(prompt))
         {
@@ -1429,19 +1431,21 @@ static char *make_prompt(struct descriptor_data *d)
 
         if(len < sizeof(prompt))
         {
-            strncat(prompt, "> \r\n", sizeof(prompt) - len - 1); /* strncat: OK */
+            strncat(prompt, ">\r\n", sizeof(prompt) - len - 1); /* strncat: OK */
         }
     }
     else if(STATE(d) == CON_PLAYING && IS_NPC(d->character))
     {
-        snprintf(prompt, sizeof(prompt), "%s>\r\n", GET_NAME(d->character));
+        snprintf(prompt, sizeof(prompt), "\001%s>\r\n", GET_NAME(d->character));
     }
     else
     {
-        *prompt = '\0';
+        prompt[0] = '\001';
+        prompt[1] = '\n';
+        prompt[2] = '\0';
     }
 
-    return (prompt);
+    return prompt;
 }
 
 /* NOTE: 'txt' must be at most MAX_INPUT_LENGTH big. */
