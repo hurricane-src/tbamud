@@ -270,7 +270,7 @@ const char *MENU =
     "\t(4\t)) Change password.\r\n"
     "\t(5\t)) Delete this character.\r\n"
     "\r\n"
-    "   Make your choice: ";
+    "   Make your choice: \r\n";
 
 const char *WELC_MESSG =
     "\r\n"

@@ -1545,6 +1545,7 @@ EVENTFUNC(get_protocols)
     write_to_output(d, buf, 0);
 
     write_to_output(d, GREETINGS, 0);
+    write_to_output(d, "Login:\r\n");
     STATE(d) = CON_GET_NAME;
     return 0;
 }
