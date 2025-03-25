@@ -1,0 +1,11 @@
+services:
+  mud:
+    build:
+      dockerfile: Dockerfile
+    image: tbamud:latest
+    ports:
+      - "127.0.0.1:4000:4000/tcp"
+    volumes:
+      - "/home/tbamud/etc:/app/etc"
+      - "/home/tbamud/lib:/app/lib"
+      - "/home/tbamud/log:/app/log"

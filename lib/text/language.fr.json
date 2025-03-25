@@ -1,0 +1,1838 @@
+{
+    "7389514871FC0000": {
+        "originalEncoded": "A herdsman sits here, concentrating on his beer.\\n",
+        "originalTrimmed": "A herdsman sits here, concentrating on his beer.",
+        "translated": "Un bergeur est assis ici, se concentrant sur sa bière.",
+        "confidence": 1,
+        "restored": "Un bergeur est assis ici, se concentrant sur sa bière.\n",
+        "successfullyRestored": true,
+        "encoded": "Un bergeur est assis ici, se concentrant sur sa bière.\\n"
+    },
+    "38FB3CD50C420001": {
+        "originalEncoded": "The chapel door is made of dark wood.\\n",
+        "originalTrimmed": "The chapel door is made of dark wood.",
+        "translated": "La porte de la chapelle est en bois foncé.",
+        "confidence": 1,
+        "restored": "La porte de la chapelle est en bois foncé.\n",
+        "successfullyRestored": true,
+        "encoded": "La porte de la chapelle est en bois foncé.\\n"
+    },
+    "589569A6F7200002": {
+        "originalEncoded": "lieutenant",
+        "originalTrimmed": "lieutenant",
+        "translated": "lieutenant",
+        "confidence": 0.9895833,
+        "restored": "lieutenant",
+        "successfullyRestored": true,
+        "encoded": "lieutenant"
+    },
+    "2231156235960003": {
+        "originalEncoded": "The woods continue to the east.\\n",
+        "originalTrimmed": "The woods continue to the east.",
+        "translated": "Les bois continuent à l'est.",
+        "confidence": 1,
+        "restored": "Les bois continuent à l'est.\n",
+        "successfullyRestored": true,
+        "encoded": "Les bois continuent à l'est.\\n"
+    },
+    "95F3A97A0A520005": {
+        "originalEncoded": "mouth big mouth's throat",
+        "originalTrimmed": "mouth big mouth's throat",
+        "translated": "bouche grande gorge de la bouche",
+        "confidence": 1,
+        "restored": "bouche grande gorge de la bouche",
+        "successfullyRestored": true,
+        "encoded": "bouche grande gorge de la bouche"
+    },
+    "C01784A0151E0006": {
+        "originalEncoded": "The Mess Hall",
+        "originalTrimmed": "The Mess Hall",
+        "translated": "Le mess Hall",
+        "confidence": 1,
+        "restored": "Le mess Hall",
+        "successfullyRestored": true,
+        "encoded": "Le mess Hall"
+    },
+    "958D664A5A360007": {
+        "originalEncoded": "The Sea",
+        "originalTrimmed": "The Sea",
+        "translated": "La mer",
+        "confidence": 1,
+        "restored": "La mer",
+        "successfullyRestored": true,
+        "encoded": "La mer"
+    },
+    "709AA465CB200006": {
+        "originalEncoded": "Near a Large Building",
+        "originalTrimmed": "Near a Large Building",
+        "translated": "Près d'un grand bâtiment",
+        "confidence": 1,
+        "restored": "Près d'un grand bâtiment",
+        "successfullyRestored": true,
+        "encoded": "Près d'un grand bâtiment"
+    },
+    "1FD41ED244640007": {
+        "originalEncoded": "A sick looking dog gags on something in its mouth.\\n",
+        "originalTrimmed": "A sick looking dog gags on something in its mouth.",
+        "translated": "Un chien à l'air malade bâillonne sur quelque chose dans sa bouche.",
+        "confidence": 1,
+        "restored": "Un chien à l'air malade bâillonne sur quelque chose dans sa bouche.\n",
+        "successfullyRestored": true,
+        "encoded": "Un chien à l'air malade bâillonne sur quelque chose dans sa bouche.\\n"
+    },
+    "54E231C7984A000A": {
+        "originalEncoded": "The Southern Desert",
+        "originalTrimmed": "The Southern Desert",
+        "translated": "Le désert du sud",
+        "confidence": 1,
+        "restored": "Le désert du sud",
+        "successfullyRestored": true,
+        "encoded": "Le désert du sud"
+    },
+    "C2B31D0D828E0008": {
+        "originalEncoded": "bed",
+        "originalTrimmed": "bed",
+        "translated": "lit",
+        "confidence": 1,
+        "restored": "lit",
+        "successfullyRestored": true,
+        "encoded": "lit"
+    },
+    "481C5DE01A98000C": {
+        "originalEncoded": "   Looking closer to the floor and the broken pieces of pottery you notice what\\nappears to be dried blood caked all over. The straw mat looks to be covering something.\\n",
+        "originalTrimmed": "Looking closer to the floor and the broken pieces of pottery you notice what appears to be dried blood caked all over. The straw mat looks to be covering something.",
+        "translated": "En regardant plus près du sol et des morceaux de poterie cassés, vous remarquez ce qui semble être un sang séché partout. Le tapis de paille semble couvrir quelque chose.",
+        "confidence": 1,
+        "restored": "   En regardant plus près du sol et des morceaux de poterie cassés, vous remarquez ce qui semble être un sang séché partout. Le tapis de paille semble couvrir quelque chose.\n",
+        "successfullyRestored": true,
+        "encoded": "   En regardant plus près du sol et des morceaux de poterie cassés, vous remarquez ce qui semble être un sang séché partout. Le tapis de paille semble couvrir quelque chose.\\n"
+    },
+    "FD7552843BD60010": {
+        "originalEncoded": "You swing your fist at $N, but miss $M!",
+        "originalTrimmed": "You swing your fist at $N, but miss $M!",
+        "translated": "Vous balancez votre poing à $ n, mais manquez $ m!",
+        "confidence": 1,
+        "restored": "Vous balancez votre poing à $ n, mais manquez $ m!",
+        "successfullyRestored": true,
+        "encoded": "Vous balancez votre poing à $ n, mais manquez $ m!"
+    },
+    "F833331D336E0011": {
+        "originalEncoded": "   The head and torso of a chr-eff'n is copper-covered, with yellow, glowing\\neyes.  The lower body is in an orange shading.\\n",
+        "originalTrimmed": "The head and torso of a chr-eff'n is copper-covered, with yellow, glowing eyes.  The lower body is in an orange shading.",
+        "translated": "La tête et le torse d'un Chr-Eff'n sont couverts de cuivre, avec des yeux jaunes et brillants.  Le bas du corps est dans un ombrage orange.",
+        "confidence": 1,
+        "restored": "   La tête et le torse d'un Chr-Eff'n sont couverts de cuivre, avec des yeux jaunes et brillants.  Le bas du corps est dans un ombrage orange.\n",
+        "successfullyRestored": true,
+        "encoded": "   La tête et le torse d'un Chr-Eff'n sont couverts de cuivre, avec des yeux jaunes et brillants.  Le bas du corps est dans un ombrage orange.\\n"
+    },
+    "B6B7F81EF7AC0014": {
+        "originalEncoded": "   The mists swirl, sometimes obscuring your vision completely, at other times\\nclearing enough that you think you see the path.  Reality fades as the cold damp\\nmist permeates your very being.\\n   But there is something else now.  Something that wasn't there before.  Ahead\\nis a tree unlike any seen before.  Upon this tree grows fruit of every size,\\ncolor shape.  It is quite possibly the most amazing thing seen, as apples,\\nbananas and ever oranges all grow and fall from this tree at an alarming rate.\\n",
+        "originalTrimmed": "The mists swirl, sometimes obscuring your vision completely, at other times clearing enough that you think you see the path.  Reality fades as the cold damp mist permeates your very being.    But there is something else now.  Something that wasn't there before.  Ahead is a tree unlike any seen before.  Upon this tree grows fruit of every size, color shape.  It is quite possibly the most amazing thing seen, as apples, bananas and ever oranges all grow and fall from this tree at an alarming rate.",
+        "translated": "Les brouettes tourbillonnent, obscurcissant complètement votre vision complètement, à d'autres moments suffisamment pour que vous pensiez voir le chemin.  La réalité s'estompe alors que la brume humide froide imprègne votre être même.    Mais il y a autre chose maintenant.  Quelque chose qui n'était pas là auparavant.  À l'avance est un arbre contrairement à tout ce qui est vu auparavant.  Sur cet arbre pousse des fruits de toutes les tailles, la forme des couleurs.  C'est probablement la chose la plus étonnante vue, car les pommes, les bananes et les oranges qui se développent et tombent tous de cet arbre à un rythme alarmant.",
+        "confidence": 1,
+        "restored": "   Les brouettes tourbillonnent, obscurcissant complètement votre vision complètement, à d'autres moments suffisamment pour que vous pensiez voir le chemin.  La réalité s'estompe alors que la brume humide froide imprègne votre être même.  \n   Mais il y a autre chose maintenant.  Qu  lque chose qui n'était pas là auparavant.  À l  avance est un arbre contrairement à tout ce qui est vu auparavant.  Sur   et arbre pousse des fruits de toutes les tailles, la forme des couleurs.  C'est  probablement la chose la plus étonnante vue, car les pommes, les bananes et les oranges qui se développent et tombent tous de cet arbre à un rythme alarmant.\n",
+        "successfullyRestored": true,
+        "encoded": "   Les brouettes tourbillonnent, obscurcissant complètement votre vision complètement, à d'autres moments suffisamment pour que vous pensiez voir le chemin.  La réalité s'estompe alors que la brume humide froide imprègne votre être même.  \\n   Mais il y a autre chose maintenant.  Qu  lque chose qui n'était pas là auparavant.  À l  avance est un arbre contrairement à tout ce qui est vu auparavant.  Sur   et arbre pousse des fruits de toutes les tailles, la forme des couleurs.  C'est  probablement la chose la plus étonnante vue, car les pommes, les bananes et les oranges qui se développent et tombent tous de cet arbre à un rythme alarmant.\\n"
+    },
+    "3261CFAAC26A0015": {
+        "originalEncoded": "   The beautiful pearl sparkles as you hold it up to the light.  It's in\\nexcellent shape.\\n",
+        "originalTrimmed": "The beautiful pearl sparkles as you hold it up to the light.  It's in excellent shape.",
+        "translated": "La belle perle scintille alors que vous la maintenez à la lumière.  C'est en excellente forme.",
+        "confidence": 1,
+        "restored": "   La belle perle scintille alors que vous la maintenez à la lumière.  C'est en excellente forme.\n",
+        "successfullyRestored": true,
+        "encoded": "   La belle perle scintille alors que vous la maintenez à la lumière.  C'est en excellente forme.\\n"
+    },
+    "8F81AC2E580E0016": {
+        "originalEncoded": "   You're in a snowy forest. The vegetation isn't very thick, and you can\\nsee the ski trail to the north and west. Since this place is more hidden\\nthan the open trails, snowboarders like to come here to smoke up.\\n",
+        "originalTrimmed": "You're in a snowy forest. The vegetation isn't very thick, and you can see the ski trail to the north and west. Since this place is more hidden than the open trails, snowboarders like to come here to smoke up.",
+        "translated": "Vous êtes dans une forêt enneigée. La végétation n'est pas très épaisse et vous pouvez voir le sentier de ski au nord et à l'ouest. Étant donné que cet endroit est plus caché que les sentiers ouverts, les snowboarders aiment venir ici pour fumer.",
+        "confidence": 1,
+        "restored": "   Vous êtes dans une forêt enneigée. La végétation n'est pas très épaisse et vous pouvez voir le sentier de ski au nord et à l'ouest.  tant donné que cet endroit est plus caché que les sentiers ouverts, les snowboarders aiment venir ici pour fumer.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes dans une forêt enneigée. La végétation n'est pas très épaisse et vous pouvez voir le sentier de ski au nord et à l'ouest.  tant donné que cet endroit est plus caché que les sentiers ouverts, les snowboarders aiment venir ici pour fumer.\\n"
+    },
+    "8385E2FEE1CC0015": {
+        "originalEncoded": "a book",
+        "originalTrimmed": "a book",
+        "translated": "un livre",
+        "confidence": 1,
+        "restored": "un livre",
+        "successfullyRestored": true,
+        "encoded": "un livre"
+    },
+    "A4F78E6CCFC00018": {
+        "originalEncoded": "door",
+        "originalTrimmed": "door",
+        "translated": "porte",
+        "confidence": 0.9036458,
+        "restored": "porte",
+        "successfullyRestored": true,
+        "encoded": "porte"
+    },
+    "A0AA91293094001A": {
+        "originalEncoded": "   You're in a small ski shop. Skis, snowboards, and assorted winter clothing\\nare packed on hangers, shelves, walls, just about everywhere. A small glass\\ncountertop contains various pairs of expensive ski goggles and sun glasses.\\n",
+        "originalTrimmed": "You're in a small ski shop. Skis, snowboards, and assorted winter clothing are packed on hangers, shelves, walls, just about everywhere. A small glass countertop contains various pairs of expensive ski goggles and sun glasses.",
+        "translated": "Vous êtes dans une petite boutique de ski. Les skis, les snowboards et les vêtements d'hiver assortis sont emballés sur des cintres, des étagères, des murs, à peu près partout. Un petit comptoir en verre contient diverses paires de lunettes de ski coûteuses et de verres de soleil.",
+        "confidence": 1,
+        "restored": "   Vous êtes dans une petite boutique de ski. Les skis, les snowboards et les vêtements d'hiver assortis sont emballés sur des cintres, des étagères, des murs, à peu près partout.  n petit comptoir en verre contient diverses paires de lunettes de ski coûteuses et de verres de soleil.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes dans une petite boutique de ski. Les skis, les snowboards et les vêtements d'hiver assortis sont emballés sur des cintres, des étagères, des murs, à peu près partout.  n petit comptoir en verre contient diverses paires de lunettes de ski coûteuses et de verres de soleil.\\n"
+    },
+    "31EC5225FB9A001A": {
+        "originalEncoded": "A sorcerer is guarding the entrance.\\n",
+        "originalTrimmed": "A sorcerer is guarding the entrance.",
+        "translated": "Un sorcier garde l'entrée.",
+        "confidence": 1,
+        "restored": "Un sorcier garde l'entrée.\n",
+        "successfullyRestored": true,
+        "encoded": "Un sorcier garde l'entrée.\\n"
+    },
+    "770F865C72D8001F": {
+        "originalEncoded": "a feeder",
+        "originalTrimmed": "a feeder",
+        "translated": "un mangeur",
+        "confidence": 0.97094434,
+        "restored": "un mangeur",
+        "successfullyRestored": true,
+        "encoded": "un mangeur"
+    },
+    "8B8A733D852C0023": {
+        "originalEncoded": "   Degas is well known throughout these parts for his hermit way of living and\\nrevolutionary standing, both these lifestyles well-funded by his less well-\\nknown occupation as a thief. Busying himself picking, he nonetheless can be\\nseen glancing furtively at the pockets of passing citizens.\\n",
+        "originalTrimmed": "Degas is well known throughout these parts for his hermit way of living and revolutionary standing, both these lifestyles well-funded by his less well- known occupation as a thief. Busying himself picking, he nonetheless can be seen glancing furtively at the pockets of passing citizens.",
+        "translated": "Degas est bien connu dans ces parties pour son mode de vie ermite et sa position révolutionnaire, ces deux modes de vie bien financés par son occupation moins connue comme un voleur. En s'occupant de lui-même, il peut néanmoins être vu en regardant furtivement les poches des citoyens qui passaient.",
+        "confidence": 0.9869619,
+        "restored": "   Degas est bien connu dans ces parties pour son mode de vie ermite et sa position révolutionnaire, ces deux modes de vie bien financés par son occupation moins connue comme un voleur. En s'occupant de lui-même, il peut néanmoins être vu en regardant furtivement les poches des citoyens qui passaient.\n",
+        "successfullyRestored": true,
+        "encoded": "   Degas est bien connu dans ces parties pour son mode de vie ermite et sa position révolutionnaire, ces deux modes de vie bien financés par son occupation moins connue comme un voleur. En s'occupant de lui-même, il peut néanmoins être vu en regardant furtivement les poches des citoyens qui passaient.\\n"
+    },
+    "E63AF86547960025": {
+        "originalEncoded": "You see lots of ice-cream machines.\\n",
+        "originalTrimmed": "You see lots of ice-cream machines.",
+        "translated": "Vous voyez beaucoup de machines à glaces.",
+        "confidence": 1,
+        "restored": "Vous voyez beaucoup de machines à glaces.\n",
+        "successfullyRestored": true,
+        "encoded": "Vous voyez beaucoup de machines à glaces.\\n"
+    },
+    "14A300D504E60027": {
+        "originalEncoded": "You see athletes warming up and stretching.\\n",
+        "originalTrimmed": "You see athletes warming up and stretching.",
+        "translated": "Vous voyez des athlètes se réchauffer et s'étirer.",
+        "confidence": 1,
+        "restored": "Vous voyez des athlètes se réchauffer et s'étirer.\n",
+        "successfullyRestored": true,
+        "encoded": "Vous voyez des athlètes se réchauffer et s'étirer.\\n"
+    },
+    "E13F2343D2D60027": {
+        "originalEncoded": "   You're on the northern edge of a large grassy field. Waist high\\ngrasses completely surround you. The back of a large sandy colored\\nbuilding is directly north of you.\\n",
+        "originalTrimmed": "You're on the northern edge of a large grassy field. Waist high grasses completely surround you. The back of a large sandy colored building is directly north of you.",
+        "translated": "Vous êtes à l'extrémité nord d'un grand champ herbeux. Les herbes hautes de taille vous entourent complètement. L'arrière d'un grand bâtiment de couleur sable est directement au nord de vous.",
+        "confidence": 1,
+        "restored": "   Vous êtes à l'extrémité nord d'un grand champ herbeux. Les herbes hautes de taille vous entourent complètement.  'arrière d'un grand bâtiment de couleur sable est directement au nord de vous.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes à l'extrémité nord d'un grand champ herbeux. Les herbes hautes de taille vous entourent complètement.  'arrière d'un grand bâtiment de couleur sable est directement au nord de vous.\\n"
+    },
+    "B5C2C0ABCA5C0028": {
+        "originalEncoded": "The stairs leading up to the deck are that way.\\n",
+        "originalTrimmed": "The stairs leading up to the deck are that way.",
+        "translated": "Les escaliers menant au pont sont ainsi.",
+        "confidence": 1,
+        "restored": "Les escaliers menant au pont sont ainsi.\n",
+        "successfullyRestored": true,
+        "encoded": "Les escaliers menant au pont sont ainsi.\\n"
+    },
+    "1BE684644624002A": {
+        "originalEncoded": "rope",
+        "originalTrimmed": "rope",
+        "translated": "corde",
+        "confidence": 1,
+        "restored": "corde",
+        "successfullyRestored": true,
+        "encoded": "corde"
+    },
+    "B0D2AE2CCD1E0027": {
+        "originalEncoded": "   Your work and skills will be appreciated.\\n",
+        "originalTrimmed": "Your work and skills will be appreciated.",
+        "translated": "Votre travail et vos compétences seront appréciés.",
+        "confidence": 1,
+        "restored": "   Votre travail et vos compétences seront appréciés.\n",
+        "successfullyRestored": true,
+        "encoded": "   Votre travail et vos compétences seront appréciés.\\n"
+    },
+    "457F6CC0D27C002A": {
+        "originalEncoded": "some mime face paint",
+        "originalTrimmed": "some mime face paint",
+        "translated": "une peinture au visage mime",
+        "confidence": 1,
+        "restored": "une peinture au visage mime",
+        "successfullyRestored": true,
+        "encoded": "une peinture au visage mime"
+    },
+    "9470A9ED79FC0032": {
+        "originalEncoded": "The Upper Reaches of the Dragon's Teeth at a Cave Entrance",
+        "originalTrimmed": "The Upper Reaches of the Dragon's Teeth at a Cave Entrance",
+        "translated": "La partie supérieure des dents du dragon à une entrée de la grotte",
+        "confidence": 1,
+        "restored": "La partie supérieure des dents du dragon à une entrée de la grotte",
+        "successfullyRestored": true,
+        "encoded": "La partie supérieure des dents du dragon à une entrée de la grotte"
+    },
+    "22476C0FCC7A0033": {
+        "originalEncoded": "The armorer is here buffing a suit of scale mail.\\n",
+        "originalTrimmed": "The armorer is here buffing a suit of scale mail.",
+        "translated": "L'armurier est ici en buffant une combinaison de courrier à l'échelle.",
+        "confidence": 1,
+        "restored": "L'armurier est ici en buffant une combinaison de courrier à l'échelle.\n",
+        "successfullyRestored": true,
+        "encoded": "L'armurier est ici en buffant une combinaison de courrier à l'échelle.\\n"
+    },
+    "D32F59D50DF00032": {
+        "originalEncoded": "blueberry tart",
+        "originalTrimmed": "blueberry tart",
+        "translated": "tarte aux myrtilles",
+        "confidence": 0.95936984,
+        "restored": "tarte aux myrtilles",
+        "successfullyRestored": true,
+        "encoded": "tarte aux myrtilles"
+    },
+    "F40AFE75FC120034": {
+        "originalEncoded": "a ring of the devil",
+        "originalTrimmed": "a ring of the devil",
+        "translated": "Un anneau du diable",
+        "confidence": 1,
+        "restored": "Un anneau du diable",
+        "successfullyRestored": true,
+        "encoded": "Un anneau du diable"
+    },
+    "F58B5E35BF840036": {
+        "originalEncoded": "   Floris Ave continues unabated for as far as your sight will allow.  To your\\nnorth you see an entrance to Maris' Weapon Shop, and to your south lies an\\nentrance to the Kitty-Kat Club, a local fine dining and entertainment\\nestablishment.\\n",
+        "originalTrimmed": "Floris Ave continues unabated for as far as your sight will allow.  To your north you see an entrance to Maris' Weapon Shop, and to your south lies an entrance to the Kitty-Kat Club, a local fine dining and entertainment establishment.",
+        "translated": "Floris Ave se poursuit sans relâche pour autant que votre vue le permettra.  À votre nord, vous voyez une entrée de la boutique d'armes de Maris, et à votre sud se trouve une entrée du Kitty-Kat Club, un établissement gastronomique local et de divertissement.",
+        "confidence": 1,
+        "restored": "   Floris Ave se poursuit sans relâche pour autant que votre vue le permettra.  À votre nord, vous voyez une entrée de la boutique d'armes de Maris, et à votre sud se trouve une entrée du Kitty-Kat Club, un établissement gastronomique local et de divertissement.\n",
+        "successfullyRestored": true,
+        "encoded": "   Floris Ave se poursuit sans relâche pour autant que votre vue le permettra.  À votre nord, vous voyez une entrée de la boutique d'armes de Maris, et à votre sud se trouve une entrée du Kitty-Kat Club, un établissement gastronomique local et de divertissement.\\n"
+    },
+    "4272FE4988C60037": {
+        "originalEncoded": "key butlers butler",
+        "originalTrimmed": "key butlers butler",
+        "translated": "Butlers clés Butler",
+        "confidence": 0.91299874,
+        "restored": "Butlers clés Butler",
+        "successfullyRestored": true,
+        "encoded": "Butlers clés Butler"
+    },
+    "77165E1AD2E00038": {
+        "originalEncoded": "   A dirt path winds along in this direction.\\n",
+        "originalTrimmed": "A dirt path winds along in this direction.",
+        "translated": "Un chemin de saleté serpente dans cette direction.",
+        "confidence": 1,
+        "restored": "   Un chemin de saleté serpente dans cette direction.\n",
+        "successfullyRestored": true,
+        "encoded": "   Un chemin de saleté serpente dans cette direction.\\n"
+    },
+    "A16680C9152C0039": {
+        "originalEncoded": "   The pathway continues north-south.  To the north you can see a tall, thin\\nstructure sticking up from the ground.\\n",
+        "originalTrimmed": "The pathway continues north-south.  To the north you can see a tall, thin structure sticking up from the ground.",
+        "translated": "La voie continue au nord-sud.  Au nord, vous pouvez voir une grande structure mince remonter du sol.",
+        "confidence": 1,
+        "restored": "   La voie continue au nord-sud.  Au nord, vous pouvez voir une grande structure mince remonter du sol.\n",
+        "successfullyRestored": true,
+        "encoded": "   La voie continue au nord-sud.  Au nord, vous pouvez voir une grande structure mince remonter du sol.\\n"
+    },
+    "9ACBDC9AD880003A": {
+        "originalEncoded": "Rippling water is all that you can see in every direction.\\n",
+        "originalTrimmed": "Rippling water is all that you can see in every direction.",
+        "translated": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.",
+        "confidence": 1,
+        "restored": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.\n",
+        "successfullyRestored": true,
+        "encoded": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.\\n"
+    },
+    "34946EDA387C003B": {
+        "originalEncoded": "   You are standing inside Cheers.  Many customers are here, sitting\\nat tables moving towards intoxication.\\n   The bar continues to the west, to the south is the Main Bar.\\n",
+        "originalTrimmed": "You are standing inside Cheers.  Many customers are here, sitting at tables moving towards intoxication.    The bar continues to the west, to the south is the Main Bar.",
+        "translated": "Vous vous tenez à l'intérieur.  De nombreux clients sont là, assis à des tables qui se dirigent vers l'intoxication.    Le bar continue à l'ouest, au sud est le bar principal.",
+        "confidence": 1,
+        "restored": "   Vous vous tenez à l'intérieur.  De nombreux clients sont là, assis à des tables qui se dirigent vers l'intoxication.  \n   Le bar continue à l'ouest, au sud est le bar principal.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous vous tenez à l'intérieur.  De nombreux clients sont là, assis à des tables qui se dirigent vers l'intoxication.  \\n   Le bar continue à l'ouest, au sud est le bar principal.\\n"
+    },
+    "C5F930AA2242003C": {
+        "originalEncoded": "You can hear some loud crackling and can see sparks flying.  Scary.\\n",
+        "originalTrimmed": "You can hear some loud crackling and can see sparks flying.  Scary.",
+        "translated": "Vous pouvez entendre des crépitements bruyants et voir des étincelles voler.  Effrayant.",
+        "confidence": 1,
+        "restored": "Vous pouvez entendre des crépitements bruyants et voir des étincelles voler.  Effrayant.\n",
+        "successfullyRestored": true,
+        "encoded": "Vous pouvez entendre des crépitements bruyants et voir des étincelles voler.  Effrayant.\\n"
+    },
+    "33CEA56DAC98003A": {
+        "originalEncoded": "the silver bow of the light",
+        "originalTrimmed": "the silver bow of the light",
+        "translated": "L'arcs argenté de la lumière",
+        "confidence": 1,
+        "restored": "L'arcs argenté de la lumière",
+        "successfullyRestored": true,
+        "encoded": "L'arcs argenté de la lumière"
+    },
+    "D85802F501E4003E": {
+        "originalEncoded": "Sink Holes",
+        "originalTrimmed": "Sink Holes",
+        "translated": "Trous de puits",
+        "confidence": 1,
+        "restored": "Trous de puits",
+        "successfullyRestored": true,
+        "encoded": "Trous de puits"
+    },
+    "CB58DBA8F060042": {
+        "originalEncoded": "   As you step into the forest, the ominous silence echoes around you with the\\nform of rustling in the undergrowth, birds chirping, and even the occasional\\nsnap of the twig.  The road snakes onward north and south it comes to a clearing\\namong the forest to civilization in the form of Saint Brigid.\\n",
+        "originalTrimmed": "As you step into the forest, the ominous silence echoes around you with the form of rustling in the undergrowth, birds chirping, and even the occasional snap of the twig.  The road snakes onward north and south it comes to a clearing among the forest to civilization in the form of Saint Brigid.",
+        "translated": "Alors que vous entrez dans la forêt, le silence inquiétant résonne autour de vous avec la forme de bruissement dans le sous-bois, des oiseaux qui gazouillent et même le claquement occasionnel de la brindille.  La route serpente vers le nord et le sud, il arrive à une clairière parmi la forêt à la civilisation sous la forme de Saint Brigid.",
+        "confidence": 1,
+        "restored": "   Alors que vous entrez dans la forêt, le silence inquiétant résonne autour de vous avec la forme de bruissement dans le sous-bois, des oiseaux qui gazouillent et même le claquement occasionnel de la brindille.  La route serpente vers le nord et le sud, il arrive à une clairière parmi la forêt à la civilisation sous la forme de Saint Brigid.\n",
+        "successfullyRestored": true,
+        "encoded": "   Alors que vous entrez dans la forêt, le silence inquiétant résonne autour de vous avec la forme de bruissement dans le sous-bois, des oiseaux qui gazouillent et même le claquement occasionnel de la brindille.  La route serpente vers le nord et le sud, il arrive à une clairière parmi la forêt à la civilisation sous la forme de Saint Brigid.\\n"
+    },
+    "CE4F4928A0DA0042": {
+        "originalEncoded": "   Made from heavy black iron, the left side of the gate is only hanging by the\\nbottom hinge. A large mansion can be seen through the bars.\\n",
+        "originalTrimmed": "Made from heavy black iron, the left side of the gate is only hanging by the bottom hinge. A large mansion can be seen through the bars.",
+        "translated": "Fabriqué à partir de fer noir lourd, le côté gauche de la porte n'est suspendu que par la charnière inférieure. Un grand manoir peut être vu à travers les barreaux.",
+        "confidence": 1,
+        "restored": "   Fabriqué à partir de fer noir lourd, le côté gauche de la porte n'est suspendu que par la charnière inférieure. Un grand manoir peut être vu à travers les barreaux.\n",
+        "successfullyRestored": true,
+        "encoded": "   Fabriqué à partir de fer noir lourd, le côté gauche de la porte n'est suspendu que par la charnière inférieure. Un grand manoir peut être vu à travers les barreaux.\\n"
+    },
+    "7EB1DE5E96A40043": {
+        "originalEncoded": "emerald necklace",
+        "originalTrimmed": "emerald necklace",
+        "translated": "collier émeraude",
+        "confidence": 0.97469723,
+        "restored": "collier émeraude",
+        "successfullyRestored": true,
+        "encoded": "collier émeraude"
+    },
+    "AA205430A9C80046": {
+        "originalEncoded": "chunk meat",
+        "originalTrimmed": "chunk meat",
+        "translated": "viande",
+        "confidence": 1,
+        "restored": "viande",
+        "successfullyRestored": true,
+        "encoded": "viande"
+    },
+    "1A3DEA9160480048": {
+        "originalEncoded": "   As you walk off the street, you begin to notice how old and decrepit this\\nbuilding is.  If perchance you are passing through this room on your way out of\\nthe building you noticed how old this building seemed quite a long time ago.\\nThere are two exits.  One to the road, which happens to lie to the west and the\\nexit to the east leads to a long hallway.\\n",
+        "originalTrimmed": "As you walk off the street, you begin to notice how old and decrepit this building is.  If perchance you are passing through this room on your way out of the building you noticed how old this building seemed quite a long time ago. There are two exits.  One to the road, which happens to lie to the west and the exit to the east leads to a long hallway.",
+        "translated": "Lorsque vous quittez la rue, vous commencez à remarquer l'âge et à décrépiter ce bâtiment.  Si la perchance vous traverse cette pièce en sortant du bâtiment, vous avez remarqué l'âge de ce bâtiment il y a assez longtemps. Il y a deux sorties.  Un sur la route, qui se trouve à l'ouest et la sortie à l'est mène à un long couloir.",
+        "confidence": 1,
+        "restored": "   Lorsque vous quittez la rue, vous commencez à remarquer l'âge et à décrépiter ce bâtiment.  Si la perchance vous traverse cette pièce en sortant du bâtiment, vous avez remarqué l'âge de ce bâtiment il y a assez longtemps. I\ny a deux sorties.  Un  sur la route, qui se trouve à l'ouest et la sortie à l'est mène à un long couloir.\n",
+        "successfullyRestored": true,
+        "encoded": "   Lorsque vous quittez la rue, vous commencez à remarquer l'âge et à décrépiter ce bâtiment.  Si la perchance vous traverse cette pièce en sortant du bâtiment, vous avez remarqué l'âge de ce bâtiment il y a assez longtemps. I\\ny a deux sorties.  Un  sur la route, qui se trouve à l'ouest et la sortie à l'est mène à un long couloir.\\n"
+    },
+    "336168F1DBF00049": {
+        "originalEncoded": "the wraith",
+        "originalTrimmed": "the wraith",
+        "translated": "le Wraith",
+        "confidence": 1,
+        "restored": "le Wraith",
+        "successfullyRestored": true,
+        "encoded": "le Wraith"
+    },
+    "6A51B3B50360004A": {
+        "originalEncoded": "   Make two rooms and some pets.  The rooms MUST be sequential.  If the first\\nroom is 315 then the second must be 316.  The second room is known as the\\nstoreroom.  All that is required in the storeroom is to load one of each mob you\\nwish to be a pet.  This room can not have any exits and will never be used by\\nmortals.  Although a pet shopkeeper is not required it is recommended.  After\\nall of this is done ask your coder to implement the petshop.  It will not work\\nuntil the code is changed and the MUD is rebooted.  The cost of pets is 300\\ntimes their level.\\n",
+        "originalTrimmed": "Make two rooms and some pets.  The rooms MUST be sequential.  If the first room is 315 then the second must be 316.  The second room is known as the storeroom.  All that is required in the storeroom is to load one of each mob you wish to be a pet.  This room can not have any exits and will never be used by mortals.  Although a pet shopkeeper is not required it is recommended.  After all of this is done ask your coder to implement the petshop.  It will not work until the code is changed and the MUD is rebooted.  The cost of pets is 300 times their level.",
+        "translated": "Faites deux chambres et quelques animaux de compagnie.  Les chambres doivent être séquentielles.  Si la première pièce est 315, la seconde doit être 316. La deuxième pièce est connue sous le nom de cellier.  Tout ce qui est requis dans le magasin est de charger une de chaque foule que vous souhaitez être un animal de compagnie.  Cette pièce ne peut pas avoir de sorties et ne sera jamais utilisée par les mortels.  Bien qu'un acheteur d'animaux ne soit pas nécessaire, il est recommandé.  Après tout cela, demandez à votre codeur de mettre en œuvre le PETSHOP.  Il ne fonctionnera pas tant que le code sera modifié et que la boue est redémarrée.  Le coût des animaux de compagnie est 300 fois leur niveau.",
+        "confidence": 1,
+        "restored": "   Faites deux chambres et quelques animaux de compagnie.  Les chambres doivent être séquentielles.    i la première pièce est 315, la seconde doit être 316. La  deuxième pièce est connue sous le nom de cellier.  To  t ce qui est requis dans le magasin est de charger une de chaque foule que vous souhaitez être un animal de compagnie.  Cet  e pièce ne peut pas avoir de sorties et ne sera jamais utilisée par les mortels.  Bien  qu'un acheteur d'animaux ne soit pas nécessaire, il est recommandé.  Après  tout cela, demandez à votre codeur de mettre en œuvre le PETSHOP.  Il ne   onctionnera pas tant que le code sera modifié et que la boue est redémarrée.  Le coût  des animaux de compagnie est 300 fois leur niveau.\n",
+        "successfullyRestored": true,
+        "encoded": "   Faites deux chambres et quelques animaux de compagnie.  Les chambres doivent être séquentielles.    i la première pièce est 315, la seconde doit être 316. La  deuxième pièce est connue sous le nom de cellier.  To  t ce qui est requis dans le magasin est de charger une de chaque foule que vous souhaitez être un animal de compagnie.  Cet  e pièce ne peut pas avoir de sorties et ne sera jamais utilisée par les mortels.  Bien  qu'un acheteur d'animaux ne soit pas nécessaire, il est recommandé.  Après  tout cela, demandez à votre codeur de mettre en œuvre le PETSHOP.  Il ne   onctionnera pas tant que le code sera modifié et que la boue est redémarrée.  Le coût  des animaux de compagnie est 300 fois leur niveau.\\n"
+    },
+    "7D136F6812E40048": {
+        "originalEncoded": "Twas the night before Christmas,\\nHe lived all alone,\\nIn a one bedroom house\\nMade of plaster and stone.\\n\\nI had come down the chimney\\nWith presents to give,\\nAnd to see just who\\nIn this home did live.\\n\\nI looked all about,\\nA strange sight I did see,\\nNo tinsel, no presents,\\nNot even a tree.\\n\\nNo stocking by mantle,\\nJust boots filled with sand,\\nOn the wall hung pictures\\nOf far distant lands.\\n\\nWith medals and badges,\\nAwards of all kinds,\\nA somber thought\\nCame through my mind.\\n\\nFor this house was different,\\nIt was dark and dreary,\\nI found the home of a soldier,\\nOnce I could see clearly.\\n\\nThe soldier lay sleeping,\\nSilent, alone,\\nCurled up on the floor\\nIn this one bedroon home.\\n\\nThe face was so gentle,\\nThe room in such disorder,\\nNot how I pictured\\nA United States Soldier.\\n\\nWas this the hero\\nOf whom I'd just read?\\nCurled up on a poncho,\\nThe floor for a bed?\\n\\nI realized the families\\nThat I saw this night,\\nOwed their lives to these soldiers\\nWho were willing to fight.\\n\\nSoon round the world,\\nThe children would play,\\nAnd grownups would celebrate\\na bright Christmas Day.\\n\\nThey all enjoyed freedom\\nEach month of the year,\\nBecause of the soldiers,\\nLike the one lying here.\\n\\nI couldn't help wonder\\nHow many lay alone,\\nOn an old Christmas Eve\\nIn a land far from home.\\n\\nThe very thought\\nBrought a tear to my eye,\\nI dropped to my knees\\nAnd started to cry.\\n\\nThe soldier awakened\\nAnd I heard a rough voice,\\n\"Santa don't cry,\\nThis life is my choice;\\n\\nI fight for freedom,\\nI don't ask for more,\\nMy life is my GOD,\\nMy COUNTRY, My CORPS.\"\\n\\nThe soldier rolled over\\nAnd drifted to sleep,\\nI couldn't control it,\\nI continued to weep.\\n\\nI kept watch for hours,\\nSo silent and still\\nAnd we both shivered\\nFrom the cold night's chill.\\n\\nI didn't want to leave\\nOn that cold, dark, night,\\nThis Guardian of Honor\\nSo willing to fight.\\n\\nThen the soldier rolled over,\\nWith a voice soft and pure,\\nWhispered, \"Carry on Santa,\\nIt's Christmas Day, All is secure.\"\\n\\nOne look at my watch,\\nAnd I knew he was right.\\n\"MERRY CHRISTMAS MY FRIEND,\\nAND TO ALL A GOOD NIGHT.\"\\n\\nThis poem was written by a Marine stationed in Okinawa Japan.\\n",
+        "originalTrimmed": "Twas the night before Christmas, He lived all alone, In a one bedroom house Made of plaster and stone.  I had come down the chimney With presents to give, And to see just who In this home did live.  I looked all about, A strange sight I did see, No tinsel, no presents, Not even a tree.  No stocking by mantle, Just boots filled with sand, On the wall hung pictures Of far distant lands.  With medals and badges, Awards of all kinds, A somber thought Came through my mind.  For this house was different, It was dark and dreary, I found the home of a soldier, Once I could see clearly.  The soldier lay sleeping, Silent, alone, Curled up on the floor In this one bedroon home.  The face was so gentle, The room in such disorder, Not how I pictured A United States Soldier.  Was this the hero Of whom I'd just read? Curled up on a poncho, The floor for a bed?  I realized the families That I saw this night, Owed their lives to these soldiers Who were willing to fight.  Soon round the world, The children would play, And grownups would celebrate a bright Christmas Day.  They all enjoyed freedom Each month of the year, Because of the soldiers, Like the one lying here.  I couldn't help wonder How many lay alone, On an old Christmas Eve In a land far from home.  The very thought Brought a tear to my eye, I dropped to my knees And started to cry.  The soldier awakened And I heard a rough voice, \"Santa don't cry, This life is my choice;  I fight for freedom, I don't ask for more, My life is my GOD, My COUNTRY, My CORPS.\"  The soldier rolled over And drifted to sleep, I couldn't control it, I continued to weep.  I kept watch for hours, So silent and still And we both shivered From the cold night's chill.  I didn't want to leave On that cold, dark, night, This Guardian of Honor So willing to fight.  Then the soldier rolled over, With a voice soft and pure, Whispered, \"Carry on Santa, It's Christmas Day, All is secure.\"  One look at my watch, And I knew he was right. \"MERRY CHRISTMAS MY FRIEND, AND TO ALL A GOOD NIGHT.\"  This poem was written by a Marine stationed in Okinawa Japan.",
+        "translated": "C'était la nuit avant Noël, il vivait tout seul, dans une maison d'une chambre en plâtre et en pierre.  J'étais descendu la cheminée avec des cadeaux à donner, et pour voir qui dans cette maison vivait.  J'ai regardé, une vue étrange que j'ai vu, pas de guirlandes, pas de cadeaux, pas même un arbre.  Pas de bas par manteau, juste des bottes remplies de sable, sur le mur suspendu des photos de terres lointaines.  Avec des médailles et des badges, des récompenses de toutes sortes, une pensée sombre me venait à l'esprit.  Car cette maison était différente, elle était sombre et morne, j'ai trouvé la maison d'un soldat, une fois que je pouvais voir clairement.  Le soldat est resté dormir, silencieux, seul, recroquevillé sur le sol dans cette maison de Bedroon.  Le visage était si doux, la pièce dans un tel trouble, et non la façon dont j'ai imaginé un soldat des États-Unis.  Était-ce le héros de qui je venais de lire? Enroulé sur un poncho, le sol pour un lit?  J'ai réalisé les familles que j'ai vues cette nuit, devaient leur vie à ces soldats qui étaient prêts à se battre.  Bientôt dans le monde, les enfants jouaient et les adultes célébreraient un beau jour de Noël.  Ils jouissaient tous de la liberté chaque mois de l'année, à cause des soldats, comme celui qui se trouve ici.  Je ne pouvais pas m'empêcher de me demander combien de gardons seuls, dans une vieille veille de Noël dans un pays loin de chez moi.  La pensée même a apporté une larme à mon œil, je me suis laissé tomber à genoux et j'ai commencé à pleurer.  Le soldat s'est réveillé et j'ai entendu une voix rugueuse, \"Le Père Noël ne pleure pas, cette vie est mon choix; je me bats pour la liberté, je ne demande pas plus, ma vie est mon Dieu, mon pays, mon corps.\"  Le soldat s'est retourné et s'est endormi, je ne pouvais pas le contrôler, j'ai continué à pleurer.  J'ai surveillé pendant des heures, si silencieux et immobile et nous frissons tous les deux de la froide nuit fraîche.  Je ne voulais pas partir sur ce froid, sombre, nuit, ce gardien d'honneur si disposé à se battre.  Puis le soldat s'est roulé, avec une voix douce et pure, chuchota, \"Continuez le Père Noël, c'est le jour de Noël, tout est en sécurité.\"  Un regard sur ma montre, et je savais qu'il avait raison. \"Joyeux Noël mon ami, et à toute une bonne nuit.\"  Ce poème a été écrit par un Marine stationné à Okinawa Japon.",
+        "confidence": 1,
+        "restored": "C'était la nuit avant Noël, il vivait tout seul, dans une maison d'une chambre en plâtre et en pierre.\n\nJ'étais descendu la cheminée avec des cadeaux à donner, et pour voir qui dans cette maison vivait.  \n\n'ai regardé, une vue étrange que j'ai vu, pas de guirlandes, pas de cadeaux, pas même un arbre.  P\n\ns de bas par manteau, juste des bottes remplies de sable, sur le mur suspendu des photos de terres lointaines.  Av\n\nc des médailles et des badges, des récompenses de toutes sortes, une pensée sombre me venait à l'esprit.  Car\n\ncette maison était différente, elle était sombre et morne, j'ai trouvé la maison d'un soldat, une fois que je pouvais voir clairement.  Le s\n\nldat est resté dormir, silencieux, seul, recroquevillé sur le sol dans cette maison de Bedroon.  Le vi\n\nage était si doux, la pièce dans un tel trouble, et non la façon dont j'ai imaginé un soldat des États-Unis.  Était-\n\ne le héros de qui je venais de lire? Enroulé sur un poncho, le sol pour un lit?  J'ai réalisé les familles que j'ai vues cette nuit, devaient leur vie à ces soldats qui étaient prêts à se battre.  Bientôt\n\ndans le monde, les enfants jouaient et les adultes célébreraient un beau jour de Noël.  Ils joui\n\nsaient tous de la liberté chaque mois de l'année, à cause des soldats, comme celui qui se trouve ici.  Je ne pou\n\nais pas m'empêcher de me demander combien de gardons seuls, dans une vieille veille de Noël dans un pays loin de chez moi.  La pensée \n\nême a apporté une larme à mon œil, je me suis laissé tomber à genoux et j'ai commencé à pleurer.  Le soldat s\n\nest réveillé et j'ai entendu une voix rugueuse, \"Le Père Noël ne pleure pas, cette vie est mon choix; je me bats pour la liberté, je ne demande pas plus, ma vie est mon Dieu, mon pays, mon corps.\"  Le soldat s'est retourné et s'est endormi, je ne pouvais pas le contrôler, j'ai continué à pleurer.  J'ai surveil\n\né pendant des heures, si silencieux et immobile et nous frissons tous les deux de la froide nuit fraîche.  Je ne voulais\n\npas partir sur ce froid, sombre, nuit, ce gardien d'honneur si disposé à se battre.  Puis le soldat\n\ns'est roulé, avec une voix douce et pure, chuchota, \"Continuez le Père Noël, c'est le jour de Noël, tout est en sécurité.\"  Un regard sur ma montre, et je savais qu'il avait raison. \"Joyeux Noël mon\nami, et à toute une bonne nuit.\"  Ce poème a été écrit par un Marine stationné à Okinawa Japon.\n",
+        "successfullyRestored": true,
+        "encoded": "C'était la nuit avant Noël, il vivait tout seul, dans une maison d'une chambre en plâtre et en pierre.\\n\\nJ'étais descendu la cheminée avec des cadeaux à donner, et pour voir qui dans cette maison vivait.  \\n\\n'ai regardé, une vue étrange que j'ai vu, pas de guirlandes, pas de cadeaux, pas même un arbre.  P\\n\\ns de bas par manteau, juste des bottes remplies de sable, sur le mur suspendu des photos de terres lointaines.  Av\\n\\nc des médailles et des badges, des récompenses de toutes sortes, une pensée sombre me venait à l'esprit.  Car\\n\\ncette maison était différente, elle était sombre et morne, j'ai trouvé la maison d'un soldat, une fois que je pouvais voir clairement.  Le s\\n\\nldat est resté dormir, silencieux, seul, recroquevillé sur le sol dans cette maison de Bedroon.  Le vi\\n\\nage était si doux, la pièce dans un tel trouble, et non la façon dont j'ai imaginé un soldat des États-Unis.  Était-\\n\\ne le héros de qui je venais de lire? Enroulé sur un poncho, le sol pour un lit?  J'ai réalisé les familles que j'ai vues cette nuit, devaient leur vie à ces soldats qui étaient prêts à se battre.  Bientôt\\n\\ndans le monde, les enfants jouaient et les adultes célébreraient un beau jour de Noël.  Ils joui\\n\\nsaient tous de la liberté chaque mois de l'année, à cause des soldats, comme celui qui se trouve ici.  Je ne pou\\n\\nais pas m'empêcher de me demander combien de gardons seuls, dans une vieille veille de Noël dans un pays loin de chez moi.  La pensée \\n\\nême a apporté une larme à mon œil, je me suis laissé tomber à genoux et j'ai commencé à pleurer.  Le soldat s\\n\\nest réveillé et j'ai entendu une voix rugueuse, \"Le Père Noël ne pleure pas, cette vie est mon choix; je me bats pour la liberté, je ne demande pas plus, ma vie est mon Dieu, mon pays, mon corps.\"  Le soldat s'est retourné et s'est endormi, je ne pouvais pas le contrôler, j'ai continué à pleurer.  J'ai surveil\\n\\né pendant des heures, si silencieux et immobile et nous frissons tous les deux de la froide nuit fraîche.  Je ne voulais\\n\\npas partir sur ce froid, sombre, nuit, ce gardien d'honneur si disposé à se battre.  Puis le soldat\\n\\ns'est roulé, avec une voix douce et pure, chuchota, \"Continuez le Père Noël, c'est le jour de Noël, tout est en sécurité.\"  Un regard sur ma montre, et je savais qu'il avait raison. \"Joyeux Noël mon\\nami, et à toute une bonne nuit.\"  Ce poème a été écrit par un Marine stationné à Okinawa Japon.\\n"
+    },
+    "B6F9FFCCCAAA004C": {
+        "originalEncoded": "   The fish swimms away so fast you cant catch a glimpse of him.\\n",
+        "originalTrimmed": "The fish swimms away so fast you cant catch a glimpse of him.",
+        "translated": "Le poisson nage si vite que vous ne pouvez pas l'apercevoir.",
+        "confidence": 1,
+        "restored": "   Le poisson nage si vite que vous ne pouvez pas l'apercevoir.\n",
+        "successfullyRestored": true,
+        "encoded": "   Le poisson nage si vite que vous ne pouvez pas l'apercevoir.\\n"
+    },
+    "D57610122BEA004D": {
+        "originalEncoded": "A Cold Room",
+        "originalTrimmed": "A Cold Room",
+        "translated": "Une chambre froide",
+        "confidence": 1,
+        "restored": "Une chambre froide",
+        "successfullyRestored": true,
+        "encoded": "Une chambre froide"
+    },
+    "F579510EC47C004D": {
+        "originalEncoded": "Camp Perimeter",
+        "originalTrimmed": "Camp Perimeter",
+        "translated": "Périmètre de camp",
+        "confidence": 0.9684041,
+        "restored": "Périmètre de camp",
+        "successfullyRestored": true,
+        "encoded": "Périmètre de camp"
+    },
+    "C67E177F8A56004E": {
+        "originalEncoded": "old wooden shield",
+        "originalTrimmed": "old wooden shield",
+        "translated": "vieux bouclier en bois",
+        "confidence": 0.98509985,
+        "restored": "vieux bouclier en bois",
+        "successfullyRestored": true,
+        "encoded": "vieux bouclier en bois"
+    },
+    "1937F08597080050": {
+        "originalEncoded": "gloves leather",
+        "originalTrimmed": "gloves leather",
+        "translated": "gants en cuir",
+        "confidence": 1,
+        "restored": "gants en cuir",
+        "successfullyRestored": true,
+        "encoded": "gants en cuir"
+    },
+    "D007919502B60054": {
+        "originalEncoded": "   The sudden appearance of this large hole just highlights the need to be\\nespecially cautious here.  It is almost impossible to avoid stepping into this\\ndeep well of mud until immediately upon it, due to the dark shadows obscuring\\nits visibility.\\n",
+        "originalTrimmed": "The sudden appearance of this large hole just highlights the need to be especially cautious here.  It is almost impossible to avoid stepping into this deep well of mud until immediately upon it, due to the dark shadows obscuring its visibility.",
+        "translated": "L'apparence soudaine de ce grand trou met en évidence la nécessité d'être particulièrement prudente ici.  Il est presque impossible d'éviter d'entrer dans ce puits profond de boue jusqu'à immédiatement, en raison des ombres sombres obscurcissant sa visibilité.",
+        "confidence": 1,
+        "restored": "   L'apparence soudaine de ce grand trou met en évidence la nécessité d'être particulièrement prudente ici.  Il est presque impossible d'éviter d'entrer dans ce puits profond de boue jusqu'à immédiatement, en raison des ombres sombres obscurcissant sa visibilité.\n",
+        "successfullyRestored": true,
+        "encoded": "   L'apparence soudaine de ce grand trou met en évidence la nécessité d'être particulièrement prudente ici.  Il est presque impossible d'éviter d'entrer dans ce puits profond de boue jusqu'à immédiatement, en raison des ombres sombres obscurcissant sa visibilité.\\n"
+    },
+    "BA123FE56AF00056": {
+        "originalEncoded": "   Swirling streaks of blue represent ocean waves, little purple shells and\\njumping dolphins making up the rest of the scenery.\\n",
+        "originalTrimmed": "Swirling streaks of blue represent ocean waves, little purple shells and jumping dolphins making up the rest of the scenery.",
+        "translated": "Des stries tourbillonnantes de bleu représentent les vagues de l'océan, les petites coquilles violettes et les dauphins sautant composant le reste du paysage.",
+        "confidence": 1,
+        "restored": "   Des stries tourbillonnantes de bleu représentent les vagues de l'océan, les petites coquilles violettes et les dauphins sautant composant le reste du paysage.\n",
+        "successfullyRestored": true,
+        "encoded": "   Des stries tourbillonnantes de bleu représentent les vagues de l'océan, les petites coquilles violettes et les dauphins sautant composant le reste du paysage.\\n"
+    },
+    "6F60004A64140056": {
+        "originalEncoded": "   This is the Yew Forest.  The trees look all the same.  Consequently you are\\nlost.\\n",
+        "originalTrimmed": "This is the Yew Forest.  The trees look all the same.  Consequently you are lost.",
+        "translated": "Ceci est la forêt d'if.  Les arbres se ressemblent tout de même.  Par conséquent, vous êtes perdu.",
+        "confidence": 1,
+        "restored": "   Ceci est la forêt d'if.  Les arbres se ressemblent tout de même.    ar conséquent, vous êtes perdu.\n",
+        "successfullyRestored": true,
+        "encoded": "   Ceci est la forêt d'if.  Les arbres se ressemblent tout de même.    ar conséquent, vous êtes perdu.\\n"
+    },
+    "AD82FD117E040058": {
+        "originalEncoded": "To the east, you see the shore.\\n",
+        "originalTrimmed": "To the east, you see the shore.",
+        "translated": "À l'est, vous voyez le rivage.",
+        "confidence": 1,
+        "restored": "À l'est, vous voyez le rivage.\n",
+        "successfullyRestored": true,
+        "encoded": "À l'est, vous voyez le rivage.\\n"
+    },
+    "71B6F0FB1C4005B": {
+        "originalEncoded": "   What is there to say?  He is cleaning stuff up.  Wow.  What a thrill.\\n",
+        "originalTrimmed": "What is there to say?  He is cleaning stuff up.  Wow.  What a thrill.",
+        "translated": "Qu'y a-t-il à dire?  Il nettoie les trucs.  Ouah.  Quel frisson.",
+        "confidence": 1,
+        "restored": "   Qu'y a-t-il à dire?  Il nettoie les trucs.  Ouah.    uel frisson.\n",
+        "successfullyRestored": true,
+        "encoded": "   Qu'y a-t-il à dire?  Il nettoie les trucs.  Ouah.    uel frisson.\\n"
+    },
+    "8AB01C14A11E005D": {
+        "originalEncoded": "slime mould green",
+        "originalTrimmed": "slime mould green",
+        "translated": "Slime Moule vert",
+        "confidence": 1,
+        "restored": "Slime Moule vert",
+        "successfullyRestored": true,
+        "encoded": "Slime Moule vert"
+    },
+    "BC856698D1820061": {
+        "originalEncoded": "In the far corner you can just make out a set of stairs.\\n",
+        "originalTrimmed": "In the far corner you can just make out a set of stairs.",
+        "translated": "Dans le coin le plus éloigné, vous pouvez simplement distinguer un escalier.",
+        "confidence": 1,
+        "restored": "Dans le coin le plus éloigné, vous pouvez simplement distinguer un escalier.\n",
+        "successfullyRestored": true,
+        "encoded": "Dans le coin le plus éloigné, vous pouvez simplement distinguer un escalier.\\n"
+    },
+    "74EE7CA99F280062": {
+        "originalEncoded": "A dark, beady-eyed rat sniffs the air.\\n",
+        "originalTrimmed": "A dark, beady-eyed rat sniffs the air.",
+        "translated": "Un rat sombre et aux yeux brillants renifle l'air.",
+        "confidence": 1,
+        "restored": "Un rat sombre et aux yeux brillants renifle l'air.\n",
+        "successfullyRestored": true,
+        "encoded": "Un rat sombre et aux yeux brillants renifle l'air.\\n"
+    },
+    "1F919CA85C200064": {
+        "originalEncoded": "A Green Hallway",
+        "originalTrimmed": "A Green Hallway",
+        "translated": "Un couloir vert",
+        "confidence": 1,
+        "restored": "Un couloir vert",
+        "successfullyRestored": true,
+        "encoded": "Un couloir vert"
+    },
+    "433AC7684ECA0064": {
+        "originalEncoded": "   You are in a long hallway lined with adamantite.  The walls are engraved\\nwith pictures of elves and spiders.  The hallway continues east and west.  As\\nyou look down the hallway you can make out one or two figures moving away from\\nyou.\\n",
+        "originalTrimmed": "You are in a long hallway lined with adamantite.  The walls are engraved with pictures of elves and spiders.  The hallway continues east and west.  As you look down the hallway you can make out one or two figures moving away from you.",
+        "translated": "Vous êtes dans un long couloir bordé d'adamantite.  Les murs sont gravés de photos d'elfes et d'araignées.  Le couloir se poursuit à l'est et à l'ouest.  Lorsque vous regardez dans le couloir, vous pouvez distinguer une ou deux chiffres de vous éloigner de vous.",
+        "confidence": 1,
+        "restored": "   Vous êtes dans un long couloir bordé d'adamantite.  Les murs sont gravés de photos d'elfes et d'araignées.    e couloir se poursuit à l'est et à l'ouest.  L  rsque vous regardez dans le couloir, vous pouvez distinguer une ou deux chiffres de vous éloigner de vous.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes dans un long couloir bordé d'adamantite.  Les murs sont gravés de photos d'elfes et d'araignées.    e couloir se poursuit à l'est et à l'ouest.  L  rsque vous regardez dans le couloir, vous pouvez distinguer une ou deux chiffres de vous éloigner de vous.\\n"
+    },
+    "B184AD4CBE380068": {
+        "originalEncoded": "vampire greater",
+        "originalTrimmed": "vampire greater",
+        "translated": "Vampire plus grand",
+        "confidence": 0.95656514,
+        "restored": "Vampire plus grand",
+        "successfullyRestored": true,
+        "encoded": "Vampire plus grand"
+    },
+    "B33FD5A76DF0006A": {
+        "originalEncoded": "2 two",
+        "originalTrimmed": "2 two",
+        "translated": "2 deux",
+        "confidence": 1,
+        "restored": "2 deux",
+        "successfullyRestored": true,
+        "encoded": "2 deux"
+    },
+    "1AACBCDDB5C0006D": {
+        "originalEncoded": "The Forbidden Zone continues West.\\n",
+        "originalTrimmed": "The Forbidden Zone continues West.",
+        "translated": "La zone interdite se poursuit vers l'ouest.",
+        "confidence": 0.98730576,
+        "restored": "La zone interdite se poursuit vers l'ouest.\n",
+        "successfullyRestored": true,
+        "encoded": "La zone interdite se poursuit vers l'ouest.\\n"
+    },
+    "6D90EB5D8F1E006E": {
+        "originalEncoded": "A rot grub slunks toward you, sucking debris from the floor.\\n",
+        "originalTrimmed": "A rot grub slunks toward you, sucking debris from the floor.",
+        "translated": "Une rot de rot se tue vers vous, suçant des débris du sol.",
+        "confidence": 1,
+        "restored": "Une rot de rot se tue vers vous, suçant des débris du sol.\n",
+        "successfullyRestored": true,
+        "encoded": "Une rot de rot se tue vers vous, suçant des débris du sol.\\n"
+    },
+    "B676F03BA432006E": {
+        "originalEncoded": "A rod of black, runed metal swallows light here.",
+        "originalTrimmed": "A rod of black, runed metal swallows light here.",
+        "translated": "Une tige de métal noir avale en métal en phase.",
+        "confidence": 1,
+        "restored": "Une tige de métal noir avale en métal en phase.",
+        "successfullyRestored": true,
+        "encoded": "Une tige de métal noir avale en métal en phase."
+    },
+    "CBFDD36660400070": {
+        "originalEncoded": "a silver key",
+        "originalTrimmed": "a silver key",
+        "translated": "Une clé d'argent",
+        "confidence": 1,
+        "restored": "Une clé d'argent",
+        "successfullyRestored": true,
+        "encoded": "Une clé d'argent"
+    },
+    "CC7F5CBE0CE8006F": {
+        "originalEncoded": "%s I don't trade in such items.",
+        "originalTrimmed": "%s I don't trade in such items.",
+        "translated": "% s Je n'échange pas de tels articles.",
+        "confidence": 1,
+        "restored": "% s Je n'échange pas de tels articles.",
+        "successfullyRestored": true,
+        "encoded": "% s Je n'échange pas de tels articles."
+    },
+    "901D03E25E3A0073": {
+        "originalEncoded": "   What a shame that this mass destruction also touched this once\\nbeautiful place.  The temple's garden path has nothing on this garden.\\nFlowers and trees have been smashed into the ground and lawn benches\\nthrown through walls.  A large marble fountain in the center of the\\ncourtyard still stands, though, defying any attempts to destroy its\\nbeauty.  Above stands the remnants of one of the watchtowers.  Archways\\nnorth and west lead back into the city hall.\\n",
+        "originalTrimmed": "What a shame that this mass destruction also touched this once beautiful place.  The temple's garden path has nothing on this garden. Flowers and trees have been smashed into the ground and lawn benches thrown through walls.  A large marble fountain in the center of the courtyard still stands, though, defying any attempts to destroy its beauty.  Above stands the remnants of one of the watchtowers.  Archways north and west lead back into the city hall.",
+        "translated": "Quelle dommage que cette destruction massive ait également touché cet endroit autrefois magnifique.  Le chemin du jardin du temple n'a rien sur ce jardin. Des fleurs et des arbres ont été brisés dans le sol et des bancs de pelouse lancés à travers les murs.  Une grande fontaine en marbre au centre de la cour se tient toujours, défier toute tentative de détruire sa beauté.  Ci-dessus se dresse les restes de l'une des voies de guet.  Les arches au nord et à l'ouest retournent à l'hôtel de ville.",
+        "confidence": 1,
+        "restored": "   Quelle dommage que cette destruction massive ait également touché cet endroit autrefois magnifique.  Le chemin du jardin du temple n'a rien sur ce jardin. D\ns fleurs et des arbres ont été brisés dans le sol et des bancs de pelouse lancés à travers les murs.  U  e grande fontaine en marbre au centre de la cour se tient toujours, défier toute tentative de détruire sa beauté.  Ci  dessus se dresse les restes de l'une des voies de guet.  Les  arches au nord et à l'ouest retournent à l'hôtel de ville.\n",
+        "successfullyRestored": true,
+        "encoded": "   Quelle dommage que cette destruction massive ait également touché cet endroit autrefois magnifique.  Le chemin du jardin du temple n'a rien sur ce jardin. D\\ns fleurs et des arbres ont été brisés dans le sol et des bancs de pelouse lancés à travers les murs.  U  e grande fontaine en marbre au centre de la cour se tient toujours, défier toute tentative de détruire sa beauté.  Ci  dessus se dresse les restes de l'une des voies de guet.  Les  arches au nord et à l'ouest retournent à l'hôtel de ville.\\n"
+    },
+    "50DBB41153DC0075": {
+        "originalEncoded": "Passageway",
+        "originalTrimmed": "Passageway",
+        "translated": "Passage",
+        "confidence": 1,
+        "restored": "Passage",
+        "successfullyRestored": true,
+        "encoded": "Passage"
+    },
+    "4FEB5967B5360079": {
+        "originalEncoded": "Esmerelda woman mysterious gypsy",
+        "originalTrimmed": "Esmerelda woman mysterious gypsy",
+        "translated": "Esmerelda femme mystérieuse gitane",
+        "confidence": 0.85412776,
+        "restored": "Esmerelda femme mystérieuse gitane",
+        "successfullyRestored": true,
+        "encoded": "Esmerelda femme mystérieuse gitane"
+    },
+    "532F8CB1D100007B": {
+        "originalEncoded": "   This room is a convenient space where the legal tenant can leave things to\\nhave them protected against crashes and reboots.  If this is a vacant apartment,\\ndo not leave your things here.  Only owned apartments are protected.\\n\\n   Guests can also leave things.  If this is your apartment, typing 'house' with\\nthe name of a player will add that player to your guest list if the player is\\nnot on the list, or will remove the player from the guest list if the player is\\nalready on the list.  The player specified must be in the player database for\\nthe MUD, although he or she does not necessarily have to be logged on at the\\ntime.\\n\\n   Typing 'house' with no arguments gives a list of the people currently on your\\nhouse's guest list.\\n",
+        "originalTrimmed": "This room is a convenient space where the legal tenant can leave things to have them protected against crashes and reboots.  If this is a vacant apartment, do not leave your things here.  Only owned apartments are protected.     Guests can also leave things.  If this is your apartment, typing 'house' with the name of a player will add that player to your guest list if the player is not on the list, or will remove the player from the guest list if the player is already on the list.  The player specified must be in the player database for the MUD, although he or she does not necessarily have to be logged on at the time.     Typing 'house' with no arguments gives a list of the people currently on your house's guest list.",
+        "translated": "Cette salle est un espace pratique où le locataire légal peut laisser les choses pour les protéger contre les accidents et les redémarrages.  S'il s'agit d'un appartement vacant, ne laissez pas vos affaires ici.  Seuls les appartements appartenant sont protégés.     Les clients peuvent également laisser des choses.  S'il s'agit de votre appartement, la saisie de «maison» avec le nom d'un joueur ajoutera ce joueur à votre liste d'invités si le joueur n'est pas sur la liste, ou supprimera le joueur de la liste des invités si le joueur est déjà sur la liste.  Le joueur spécifié doit être dans la base de données des joueurs pour la boue, bien qu'il ne doive pas nécessairement être connecté à l'époque.     Tapier la «maison» sans arguments donne une liste des personnes actuellement sur la liste des invités de votre maison.",
+        "confidence": 1,
+        "restored": "   Cette salle est un espace pratique où le locataire légal peut laisser les choses pour les protéger contre les accidents et les redémarrages.  S'il s'agit d'un appartement vacant, ne laissez pas vos affaires ici.    euls les appartements appartenant sont protégés.   \n\n   Les clients peuvent également laisser des choses.  S'i  s'agit de votre appartement, la saisie de «maison» avec le nom d'un joueur ajoutera ce joueur à votre liste d'invités si le joueur n'est pas sur la liste, ou supprimera le joueur de la liste des invités si le joueur est déjà sur la liste.  Le jo  eur spécifié doit être dans la base de données des joueurs pour la boue, bien qu'il ne doive pas nécessairement être connecté à l'époque.     Tap\n\n   er la «maison» sans arguments donne une liste des personnes actuellement sur la liste des invités de votre maison.\n",
+        "successfullyRestored": true,
+        "encoded": "   Cette salle est un espace pratique où le locataire légal peut laisser les choses pour les protéger contre les accidents et les redémarrages.  S'il s'agit d'un appartement vacant, ne laissez pas vos affaires ici.    euls les appartements appartenant sont protégés.   \\n\\n   Les clients peuvent également laisser des choses.  S'i  s'agit de votre appartement, la saisie de «maison» avec le nom d'un joueur ajoutera ce joueur à votre liste d'invités si le joueur n'est pas sur la liste, ou supprimera le joueur de la liste des invités si le joueur est déjà sur la liste.  Le jo  eur spécifié doit être dans la base de données des joueurs pour la boue, bien qu'il ne doive pas nécessairement être connecté à l'époque.     Tap\\n\\n   er la «maison» sans arguments donne une liste des personnes actuellement sur la liste des invités de votre maison.\\n"
+    },
+    "FA43DF33097E007B": {
+        "originalEncoded": "threadbare boots",
+        "originalTrimmed": "threadbare boots",
+        "translated": "bottes",
+        "confidence": 1,
+        "restored": "bottes",
+        "successfullyRestored": true,
+        "encoded": "bottes"
+    },
+    "64F84BDC6858007D": {
+        "originalEncoded": "light stairway",
+        "originalTrimmed": "light stairway",
+        "translated": "escalier léger",
+        "confidence": 1,
+        "restored": "escalier léger",
+        "successfullyRestored": true,
+        "encoded": "escalier léger"
+    },
+    "8400DDC27ED40080": {
+        "originalEncoded": "basin wash washbasin",
+        "originalTrimmed": "basin wash washbasin",
+        "translated": "lavabo du bassin",
+        "confidence": 0.7953592,
+        "restored": "lavabo du bassin",
+        "successfullyRestored": true,
+        "encoded": "lavabo du bassin"
+    },
+    "7D8A33C36AA20081": {
+        "originalEncoded": "camouflage gloves",
+        "originalTrimmed": "camouflage gloves",
+        "translated": "gants de camouflage",
+        "confidence": 0.9880311,
+        "restored": "gants de camouflage",
+        "successfullyRestored": true,
+        "encoded": "gants de camouflage"
+    },
+    "F91B999A72800080": {
+        "originalEncoded": "ghenna cinch",
+        "originalTrimmed": "ghenna cinch",
+        "translated": "ghenna troch",
+        "confidence": 0.34239954,
+        "restored": "ghenna troch",
+        "successfullyRestored": true,
+        "encoded": "ghenna troch"
+    },
+    "3345D46D65FC0087": {
+        "originalEncoded": "trapdoor",
+        "originalTrimmed": "trapdoor",
+        "translated": "trappe",
+        "confidence": 0.80172724,
+        "restored": "trappe",
+        "successfullyRestored": true,
+        "encoded": "trappe"
+    },
+    "328CA1B83FF8008A": {
+        "originalEncoded": "A brewing cauldron is in the middle of the room bubbling.\\n",
+        "originalTrimmed": "A brewing cauldron is in the middle of the room bubbling.",
+        "translated": "Un chaudron de brassage est au milieu de la pièce bouillonnant.",
+        "confidence": 1,
+        "restored": "Un chaudron de brassage est au milieu de la pièce bouillonnant.\n",
+        "successfullyRestored": true,
+        "encoded": "Un chaudron de brassage est au milieu de la pièce bouillonnant.\\n"
+    },
+    "25693B7E92F4008A": {
+        "originalEncoded": "altar",
+        "originalTrimmed": "altar",
+        "translated": "autel",
+        "confidence": 0.9786951,
+        "restored": "autel",
+        "successfullyRestored": true,
+        "encoded": "autel"
+    },
+    "B62759B533FC008C": {
+        "originalEncoded": "a halfling beauty",
+        "originalTrimmed": "a halfling beauty",
+        "translated": "Une halfling beauté",
+        "confidence": 1,
+        "restored": "Une halfling beauté",
+        "successfullyRestored": true,
+        "encoded": "Une halfling beauté"
+    },
+    "CF863882229A008E": {
+        "originalEncoded": "More Of The Hallway",
+        "originalTrimmed": "More Of The Hallway",
+        "translated": "Plus du couloir",
+        "confidence": 1,
+        "restored": "Plus du couloir",
+        "successfullyRestored": true,
+        "encoded": "Plus du couloir"
+    },
+    "7A5FBBCA5F9E008F": {
+        "originalEncoded": "Trampled Dirt Highway",
+        "originalTrimmed": "Trampled Dirt Highway",
+        "translated": "Autoroute de saleté piétinée",
+        "confidence": 1,
+        "restored": "Autoroute de saleté piétinée",
+        "successfullyRestored": true,
+        "encoded": "Autoroute de saleté piétinée"
+    },
+    "FFE6724AAF3A0090": {
+        "originalEncoded": "Cobblestone Road",
+        "originalTrimmed": "Cobblestone Road",
+        "translated": "Route pavée",
+        "confidence": 1,
+        "restored": "Route pavée",
+        "successfullyRestored": true,
+        "encoded": "Route pavée"
+    },
+    "F6298DE71686008E": {
+        "originalEncoded": "nightmare demon horse",
+        "originalTrimmed": "nightmare demon horse",
+        "translated": "cheval de démon cauchemardesque",
+        "confidence": 1,
+        "restored": "cheval de démon cauchemardesque",
+        "successfullyRestored": true,
+        "encoded": "cheval de démon cauchemardesque"
+    },
+    "2FDE19C2E326008E": {
+        "originalEncoded": "Draxthanum the Gargoyle",
+        "originalTrimmed": "Draxthanum the Gargoyle",
+        "translated": "Draxthanum la gargouille",
+        "confidence": 0.7907168,
+        "restored": "Draxthanum la gargouille",
+        "successfullyRestored": true,
+        "encoded": "Draxthanum la gargouille"
+    },
+    "5DF3FB28DD74008F": {
+        "originalEncoded": "a jar of honey",
+        "originalTrimmed": "a jar of honey",
+        "translated": "Un pot de miel",
+        "confidence": 1,
+        "restored": "Un pot de miel",
+        "successfullyRestored": true,
+        "encoded": "Un pot de miel"
+    },
+    "A0A9661A9ABA009A": {
+        "originalEncoded": "a robed leper",
+        "originalTrimmed": "a robed leper",
+        "translated": "un lépreux en robe",
+        "confidence": 0.98796684,
+        "restored": "un lépreux en robe",
+        "successfullyRestored": true,
+        "encoded": "un lépreux en robe"
+    },
+    "F6CEDEA10E56009B": {
+        "originalEncoded": "   This looks to be one of the guest rooms where the master of this house might\\nallow an acquaintance to spend the evening.  The decor does not look as if it\\nwere cheap by any means, but certainly very neutral and without any taste in one\\ndirection or another.  The tattered wastes of a down comforter lie all around\\nthe bed, its mattress torn to shreds.  The dresser still seems intact for the\\nmost part, but filthy from the dirty feet of rodents scurrying about on it.\\n",
+        "originalTrimmed": "This looks to be one of the guest rooms where the master of this house might allow an acquaintance to spend the evening.  The decor does not look as if it were cheap by any means, but certainly very neutral and without any taste in one direction or another.  The tattered wastes of a down comforter lie all around the bed, its mattress torn to shreds.  The dresser still seems intact for the most part, but filthy from the dirty feet of rodents scurrying about on it.",
+        "translated": "Cela semble être l'une des chambres d'amis où le maître de cette maison pourrait permettre à une connaissance de passer la soirée.  Le décor ne semble pas être bon marché, mais certainement très neutre et sans aucun goût dans une direction ou une autre.  Les déchets en lambeaux d'une couette en bas se trouvent tout autour du lit, son matelas déchiré en lambeaux.  La commode semble toujours intacte pour la plupart, mais sale des pieds sales de rongeurs se précipiter dessus.",
+        "confidence": 1,
+        "restored": "   Cela semble être l'une des chambres d'amis où le maître de cette maison pourrait permettre à une connaissance de passer la soirée.  Le décor ne semble pas être bon marché, mais certainement très neutre et sans aucun goût dans une direction ou une autre.    es déchets en lambeaux d'une couette en bas se trouvent tout autour du lit, son matelas déchiré en lambeaux.  L  commode semble toujours intacte pour la plupart, mais sale des pieds sales de rongeurs se précipiter dessus.\n",
+        "successfullyRestored": true,
+        "encoded": "   Cela semble être l'une des chambres d'amis où le maître de cette maison pourrait permettre à une connaissance de passer la soirée.  Le décor ne semble pas être bon marché, mais certainement très neutre et sans aucun goût dans une direction ou une autre.    es déchets en lambeaux d'une couette en bas se trouvent tout autour du lit, son matelas déchiré en lambeaux.  L  commode semble toujours intacte pour la plupart, mais sale des pieds sales de rongeurs se précipiter dessus.\\n"
+    },
+    "C874DC63E2A009C": {
+        "originalEncoded": "A fisherman sells good quality fish fresh from the sea.\\n",
+        "originalTrimmed": "A fisherman sells good quality fish fresh from the sea.",
+        "translated": "Un pêcheur vend du poisson de bonne qualité frais de la mer.",
+        "confidence": 1,
+        "restored": "Un pêcheur vend du poisson de bonne qualité frais de la mer.\n",
+        "successfullyRestored": true,
+        "encoded": "Un pêcheur vend du poisson de bonne qualité frais de la mer.\\n"
+    },
+    "A6121B4D55F8009D": {
+        "originalEncoded": "hunter hunters knife",
+        "originalTrimmed": "hunter hunters knife",
+        "translated": "Hunter Hunters Knife",
+        "confidence": 0.95910114,
+        "restored": "Hunter Hunters Knife",
+        "successfullyRestored": true,
+        "encoded": "Hunter Hunters Knife"
+    },
+    "D7A23DA813A009E": {
+        "originalEncoded": "A trail leading north-south.\\n",
+        "originalTrimmed": "A trail leading north-south.",
+        "translated": "Un sentier menant le nord-sud.",
+        "confidence": 1,
+        "restored": "Un sentier menant le nord-sud.\n",
+        "successfullyRestored": true,
+        "encoded": "Un sentier menant le nord-sud.\\n"
+    },
+    "DD15A3C702C2009E": {
+        "originalEncoded": "The Citadel antechamber",
+        "originalTrimmed": "The Citadel antechamber",
+        "translated": "L'antichamber Citadel",
+        "confidence": 0.9460523,
+        "restored": "L'antichamber Citadel",
+        "successfullyRestored": true,
+        "encoded": "L'antichamber Citadel"
+    },
+    "718A4E6E7E1600A0": {
+        "originalEncoded": "The hall which leads to the lobby (from here) is west.\\n",
+        "originalTrimmed": "The hall which leads to the lobby (from here) is west.",
+        "translated": "La salle qui mène au hall (d'ici) est ouest.",
+        "confidence": 1,
+        "restored": "La salle qui mène au hall (d'ici) est ouest.\n",
+        "successfullyRestored": true,
+        "encoded": "La salle qui mène au hall (d'ici) est ouest.\\n"
+    },
+    "6512B1201DA6009F": {
+        "originalEncoded": "A man in a flowing gray robe is resting here.\\n",
+        "originalTrimmed": "A man in a flowing gray robe is resting here.",
+        "translated": "Un homme dans une robe gris fluide se repose ici.",
+        "confidence": 1,
+        "restored": "Un homme dans une robe gris fluide se repose ici.\n",
+        "successfullyRestored": true,
+        "encoded": "Un homme dans une robe gris fluide se repose ici.\\n"
+    },
+    "7D00E2CE363A00A3": {
+        "originalEncoded": "Fire-Blasted Cavern",
+        "originalTrimmed": "Fire-Blasted Cavern",
+        "translated": "Caverne",
+        "confidence": 1,
+        "restored": "Caverne",
+        "successfullyRestored": true,
+        "encoded": "Caverne"
+    },
+    "106940E5DEF400A4": {
+        "originalEncoded": "   A small screen above the door reads \"Deck Three\".  The turbolift walls have\\nbeen rounded off, making it in the shape of a tube.  Several vertical rows of\\nlights make this place very well lit.  From here, you can access the other decks\\non the Enterprise.  There is a small instructional panel by the door.\\n",
+        "originalTrimmed": "A small screen above the door reads \"Deck Three\".  The turbolift walls have been rounded off, making it in the shape of a tube.  Several vertical rows of lights make this place very well lit.  From here, you can access the other decks on the Enterprise.  There is a small instructional panel by the door.",
+        "translated": "Un petit écran au-dessus de la porte se lit \"Deck Three\".  Les murs de Turbolift ont été arrondis, ce qui le rend sous la forme d'un tube.  Plusieurs rangées de lumières verticales rendent cet endroit très bien éclairé.  De là, vous pouvez accéder aux autres decks de l'entreprise.  Il y a un petit panneau pédagogique près de la porte.",
+        "confidence": 1,
+        "restored": "   Un petit écran au-dessus de la porte se lit \"Deck Three\".  Les murs de Turbolift ont été arrondis, ce qui le rend sous la forme d'un tube.    lusieurs rangées de lumières verticales rendent cet endroit très bien éclairé.  D  là, vous pouvez accéder aux autres decks de l'entreprise.  Il   a un petit panneau pédagogique près de la porte.\n",
+        "successfullyRestored": true,
+        "encoded": "   Un petit écran au-dessus de la porte se lit \"Deck Three\".  Les murs de Turbolift ont été arrondis, ce qui le rend sous la forme d'un tube.    lusieurs rangées de lumières verticales rendent cet endroit très bien éclairé.  D  là, vous pouvez accéder aux autres decks de l'entreprise.  Il   a un petit panneau pédagogique près de la porte.\\n"
+    },
+    "8ACF8CC36D6000A3": {
+        "originalEncoded": "red fox pelt fur",
+        "originalTrimmed": "red fox pelt fur",
+        "translated": "fourrure de pelt de renard roux",
+        "confidence": 1,
+        "restored": "fourrure de pelt de renard roux",
+        "successfullyRestored": true,
+        "encoded": "fourrure de pelt de renard roux"
+    },
+    "60DACF70F6D800A6": {
+        "originalEncoded": "   You stand at the entrance to an enormous maze, in the distance you can hear\\nfootsteps.  The maze is made of stone walls and has a lot of twists to it.\\n",
+        "originalTrimmed": "You stand at the entrance to an enormous maze, in the distance you can hear footsteps.  The maze is made of stone walls and has a lot of twists to it.",
+        "translated": "Vous vous tenez à l'entrée d'un énorme labyrinthe, au loin, vous pouvez entendre des pas.  Le labyrinthe est fait de murs en pierre et a beaucoup de rebondissements.",
+        "confidence": 1,
+        "restored": "   Vous vous tenez à l'entrée d'un énorme labyrinthe, au loin, vous pouvez entendre des pas.  Le labyrinthe est fait de murs en pierre et a beaucoup de rebondissements.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous vous tenez à l'entrée d'un énorme labyrinthe, au loin, vous pouvez entendre des pas.  Le labyrinthe est fait de murs en pierre et a beaucoup de rebondissements.\\n"
+    },
+    "2094251D7C8800A6": {
+        "originalEncoded": "   The road heads steeply downhill toward the docks and all the mariad life\\nwhich seems to frequent that area.  Just south of you is the final step where\\nyou reach sea level and what looks to be the grubbiest section of any town you\\nhave ever seen begins.  To the north, the road heads uphill toward the main\\nbusiness area for the Cove.\\n",
+        "originalTrimmed": "The road heads steeply downhill toward the docks and all the mariad life which seems to frequent that area.  Just south of you is the final step where you reach sea level and what looks to be the grubbiest section of any town you have ever seen begins.  To the north, the road heads uphill toward the main business area for the Cove.",
+        "translated": "La route se dirige fortement en descendant vers les quais et toute la vie de Mariad qui semble fréquenter cette zone.  Juste au sud de vous se trouve la dernière étape où vous atteignez le niveau de la mer et ce qui semble être la section la plus crasseuse de toute ville que vous avez jamais vue commence.  Au nord, la route se dirige vers la zone d'activité principale de la crique.",
+        "confidence": 1,
+        "restored": "   La route se dirige fortement en descendant vers les quais et toute la vie de Mariad qui semble fréquenter cette zone.  Juste au sud de vous se trouve la dernière étape où vous atteignez le niveau de la mer et ce qui semble être la section la plus crasseuse de toute ville que vous avez jamais vue commence.    u nord, la route se dirige vers la zone d'activité principale de la crique.\n",
+        "successfullyRestored": true,
+        "encoded": "   La route se dirige fortement en descendant vers les quais et toute la vie de Mariad qui semble fréquenter cette zone.  Juste au sud de vous se trouve la dernière étape où vous atteignez le niveau de la mer et ce qui semble être la section la plus crasseuse de toute ville que vous avez jamais vue commence.    u nord, la route se dirige vers la zone d'activité principale de la crique.\\n"
+    },
+    "D6E781BCC73600A8": {
+        "originalEncoded": "   This one seems interesting, a big difference from all the other junctions.\\nIt seems cleaner than the rest of them.  Weird.  Something that looks like\\nan air shaft leads upwards, but it looks far too slippery to climb.\\nThe pipes lead to the south, west and north.\\n",
+        "originalTrimmed": "This one seems interesting, a big difference from all the other junctions. It seems cleaner than the rest of them.  Weird.  Something that looks like an air shaft leads upwards, but it looks far too slippery to climb. The pipes lead to the south, west and north.",
+        "translated": "Celui-ci semble intéressant, une grande différence par rapport à toutes les autres jonctions. Cela semble plus propre que les autres.  Bizarre.  Quelque chose qui ressemble à un arbre d'air mène vers le haut, mais il semble beaucoup trop glissant pour grimper. Les tuyaux mènent au sud, à l'ouest et au nord.",
+        "confidence": 1,
+        "restored": "   Celui-ci semble intéressant, une grande différence par rapport à toutes les autres jonctions.\nCela semble plus propre que les autres.   Bizarre.    uelque chose qui ressemble à un arbre d'air mène vers le haut, mais il semble beaucoup trop glissant pour grimper. Le\ntuyaux mènent au sud, à l'ouest et au nord.\n",
+        "successfullyRestored": true,
+        "encoded": "   Celui-ci semble intéressant, une grande différence par rapport à toutes les autres jonctions.\\nCela semble plus propre que les autres.   Bizarre.    uelque chose qui ressemble à un arbre d'air mène vers le haut, mais il semble beaucoup trop glissant pour grimper. Le\\ntuyaux mènent au sud, à l'ouest et au nord.\\n"
+    },
+    "E9BB79CCC51600A8": {
+        "originalEncoded": "   A chill wind from the south blows bits of ice and dirt around the cavern.\\nStalagtites hang from the ceiling, looking like large icicles.  From the cavern\\nfloor rises stalagmites reach up towards their twins.  A few connecting,\\nforming natural pillars to support this underground cavern.\\n",
+        "originalTrimmed": "A chill wind from the south blows bits of ice and dirt around the cavern. Stalagtites hang from the ceiling, looking like large icicles.  From the cavern floor rises stalagmites reach up towards their twins.  A few connecting, forming natural pillars to support this underground cavern.",
+        "translated": "Un vent froid du sud souffle des morceaux de glace et de saleté autour de la caverne. Les stalagtites pendent au plafond, ressemblant à de grands glaçons.  Du plancher de la caverne, les stalagmites se dirigent vers leurs jumeaux.  Quelques-uns connectant, formant des piliers naturels pour soutenir cette caverne souterraine.",
+        "confidence": 1,
+        "restored": "   Un vent froid du sud souffle des morceaux de glace et de saleté autour de la caverne.\nLes stalagtites pendent au plafond, ressemblant à de grands glaçons.   Du plancher de la caverne, les stalagmites se dirigent vers leurs jumeaux.    uelques-uns connectant, formant des piliers naturels pour soutenir cette caverne souterraine.\n",
+        "successfullyRestored": true,
+        "encoded": "   Un vent froid du sud souffle des morceaux de glace et de saleté autour de la caverne.\\nLes stalagtites pendent au plafond, ressemblant à de grands glaçons.   Du plancher de la caverne, les stalagmites se dirigent vers leurs jumeaux.    uelques-uns connectant, formant des piliers naturels pour soutenir cette caverne souterraine.\\n"
+    },
+    "7D94C5D9641E00A9": {
+        "originalEncoded": "Forbidden Zone",
+        "originalTrimmed": "Forbidden Zone",
+        "translated": "Zone interdite",
+        "confidence": 0.80851275,
+        "restored": "Zone interdite",
+        "successfullyRestored": true,
+        "encoded": "Zone interdite"
+    },
+    "95E9DF3E618E00AA": {
+        "originalEncoded": "Blackened Battleground",
+        "originalTrimmed": "Blackened Battleground",
+        "translated": "Champ de bataille noirci",
+        "confidence": 1,
+        "restored": "Champ de bataille noirci",
+        "successfullyRestored": true,
+        "encoded": "Champ de bataille noirci"
+    },
+    "940B9C7DAF9C00AC": {
+        "originalEncoded": "   A solid layer of bricking makes a walkway around an opening in the floor of\\nthe chamber.  More of an enormous well than an opening, the gaping hole in the\\ncenter of the chamber holds a broiling darkness which actually moves and writhes\\nas if with its own inner life.  Hooting, howling creatures cavort about the\\nwalkway scavenging upon each other and any unwary visitors who might 'drop in'.\\n",
+        "originalTrimmed": "A solid layer of bricking makes a walkway around an opening in the floor of the chamber.  More of an enormous well than an opening, the gaping hole in the center of the chamber holds a broiling darkness which actually moves and writhes as if with its own inner life.  Hooting, howling creatures cavort about the walkway scavenging upon each other and any unwary visitors who might 'drop in'.",
+        "translated": "Une solide couche de briques fait une passerelle autour d'une ouverture dans le sol de la chambre.  Plus d'un énorme puits qu'une ouverture, le trou béant au centre de la chambre tient une obscurité grillée qui bouge et se tord comme avec sa propre vie intérieure.  Hotage, les créatures hurlantes qui cassent à propos de la passerelle se récupérant les unes sur les autres et tous les visiteurs imprudents qui pourraient «tomber».",
+        "confidence": 1,
+        "restored": "   Une solide couche de briques fait une passerelle autour d'une ouverture dans le sol de la chambre.  Plus d'un énorme puits qu'une ouverture, le trou béant au centre de la chambre tient une obscurité grillée qui bouge et se tord comme avec sa propre vie intérieure.    otage, les créatures hurlantes qui cassent à propos de la passerelle se récupérant les unes sur les autres et tous les visiteurs imprudents qui pourraient «tomber».\n",
+        "successfullyRestored": true,
+        "encoded": "   Une solide couche de briques fait une passerelle autour d'une ouverture dans le sol de la chambre.  Plus d'un énorme puits qu'une ouverture, le trou béant au centre de la chambre tient une obscurité grillée qui bouge et se tord comme avec sa propre vie intérieure.    otage, les créatures hurlantes qui cassent à propos de la passerelle se récupérant les unes sur les autres et tous les visiteurs imprudents qui pourraient «tomber».\\n"
+    },
+    "2DD7889C815000AC": {
+        "originalEncoded": "Inside Cornfield",
+        "originalTrimmed": "Inside Cornfield",
+        "translated": "À l'intérieur du champ de maïs",
+        "confidence": 1,
+        "restored": "À l'intérieur du champ de maïs",
+        "successfullyRestored": true,
+        "encoded": "À l'intérieur du champ de maïs"
+    },
+    "70C88558F21000AE": {
+        "originalEncoded": "The Tiger's Eye",
+        "originalTrimmed": "The Tiger's Eye",
+        "translated": "L'œil du tigre",
+        "confidence": 1,
+        "restored": "L'œil du tigre",
+        "successfullyRestored": true,
+        "encoded": "L'œil du tigre"
+    },
+    "C642C77E952A00AF": {
+        "originalEncoded": "A Dusty Tunnel",
+        "originalTrimmed": "A Dusty Tunnel",
+        "translated": "Un tunnel poussiéreux",
+        "confidence": 1,
+        "restored": "Un tunnel poussiéreux",
+        "successfullyRestored": true,
+        "encoded": "Un tunnel poussiéreux"
+    },
+    "43B34BC4950000B0": {
+        "originalEncoded": "clay footprints path",
+        "originalTrimmed": "clay footprints path",
+        "translated": "chemin d'empreintes d'argile",
+        "confidence": 1,
+        "restored": "chemin d'empreintes d'argile",
+        "successfullyRestored": true,
+        "encoded": "chemin d'empreintes d'argile"
+    },
+    "5E118ADD2E7C00AD": {
+        "originalEncoded": "spider poisonous",
+        "originalTrimmed": "spider poisonous",
+        "translated": "araignée toxique",
+        "confidence": 0.98549217,
+        "restored": "araignée toxique",
+        "successfullyRestored": true,
+        "encoded": "araignée toxique"
+    },
+    "F2153B7DCBA00A8": {
+        "originalEncoded": "A bug, one of a swarm flies around here, pestering you.\\n",
+        "originalTrimmed": "A bug, one of a swarm flies around here, pestering you.",
+        "translated": "Un bug, l'un d'un essaim vole ici, vous harcelant.",
+        "confidence": 1,
+        "restored": "Un bug, l'un d'un essaim vole ici, vous harcelant.\n",
+        "successfullyRestored": true,
+        "encoded": "Un bug, l'un d'un essaim vole ici, vous harcelant.\\n"
+    },
+    "99FB15F1E09600A9": {
+        "originalEncoded": "tanner soldier",
+        "originalTrimmed": "tanner soldier",
+        "translated": "soldat de tanneur",
+        "confidence": 0.86854017,
+        "restored": "soldat de tanneur",
+        "successfullyRestored": true,
+        "encoded": "soldat de tanneur"
+    },
+    "D27ED0FFDC8800AB": {
+        "originalEncoded": "Lamoraks spurs",
+        "originalTrimmed": "Lamoraks spurs",
+        "translated": "Lamoraks Spurs",
+        "confidence": 0.22925666,
+        "restored": "Lamoraks Spurs",
+        "successfullyRestored": true,
+        "encoded": "Lamoraks Spurs"
+    },
+    "8E3C058A377400B5": {
+        "originalEncoded": "horse",
+        "originalTrimmed": "horse",
+        "translated": "cheval",
+        "confidence": 1,
+        "restored": "cheval",
+        "successfullyRestored": true,
+        "encoded": "cheval"
+    },
+    "25CA4E8E87200B6": {
+        "originalEncoded": "You can see a large number of electrons to the east also.\\n",
+        "originalTrimmed": "You can see a large number of electrons to the east also.",
+        "translated": "Vous pouvez également voir un grand nombre d'électrons à l'est.",
+        "confidence": 1,
+        "restored": "Vous pouvez également voir un grand nombre d'électrons à l'est.\n",
+        "successfullyRestored": true,
+        "encoded": "Vous pouvez également voir un grand nombre d'électrons à l'est.\\n"
+    },
+    "8A4176694ABA00B5": {
+        "originalEncoded": "   Type 'map' to use.\\n",
+        "originalTrimmed": "Type 'map' to use.",
+        "translated": "Tapez «map» à utiliser.",
+        "confidence": 1,
+        "restored": "   Tapez «map» à utiliser.\n",
+        "successfullyRestored": true,
+        "encoded": "   Tapez «map» à utiliser.\\n"
+    },
+    "6B755191A71C00B8": {
+        "originalEncoded": "!UNUSED!",
+        "originalTrimmed": "!UNUSED!",
+        "translated": "!INUTILISÉ!",
+        "confidence": 0.77932626,
+        "restored": "!INUTILISÉ!",
+        "successfullyRestored": true,
+        "encoded": "!INUTILISÉ!"
+    },
+    "5FB3E40728000B9": {
+        "originalEncoded": "The Mourners Path",
+        "originalTrimmed": "The Mourners Path",
+        "translated": "Le chemin des personnes en deuil",
+        "confidence": 1,
+        "restored": "Le chemin des personnes en deuil",
+        "successfullyRestored": true,
+        "encoded": "Le chemin des personnes en deuil"
+    },
+    "6DC936F483A200BA": {
+        "originalEncoded": "   As you enter this small building, you notice that that blackened\\nwalls are due to a fire that seemed to burn here unattended for quite\\nsome time.  There is almost nothing left of the roof that would have\\nonce covered this building, and the north and east walls have been\\nburnt to almost half the height of the other two walls.  There are\\nsome burnt goods around on the ground and the remains of a counter\\nnear what is left of the north wall seems to indicate that this was\\nonce a shop.\\n   The road lies to the west through the blackened wall.\\n",
+        "originalTrimmed": "As you enter this small building, you notice that that blackened walls are due to a fire that seemed to burn here unattended for quite some time.  There is almost nothing left of the roof that would have once covered this building, and the north and east walls have been burnt to almost half the height of the other two walls.  There are some burnt goods around on the ground and the remains of a counter near what is left of the north wall seems to indicate that this was once a shop.    The road lies to the west through the blackened wall.",
+        "translated": "Lorsque vous entrez dans ce petit bâtiment, vous remarquez que les murs noircis sont dus à un incendie qui semblait brûler ici sans surveillance pendant un certain temps.  Il ne reste presque plus rien du toit qui aurait couvert ce bâtiment, et les murs nord et est ont été brûlés à près de la moitié de la hauteur des deux autres murs.  Il y a des marchandises brûlées sur le sol et les restes d'un comptoir près de ce qui reste du mur nord semble indiquer que c'était autrefois un magasin.    La route se trouve à l'ouest à travers le mur noirci.",
+        "confidence": 1,
+        "restored": "   Lorsque vous entrez dans ce petit bâtiment, vous remarquez que les murs noircis sont dus à un incendie qui semblait brûler ici sans surveillance pendant un certain temps.  Il ne reste presque plus rien du toit qui aurait couvert ce bâtiment, et les murs nord et est ont été brûlés à près de la moitié de la hauteur des deux autres murs.    l y a des marchandises brûlées sur le sol et les restes d'un comptoir près de ce qui reste du mur nord semble indiquer que c'était autrefois un magasin.   \n   La route se trouve à l'ouest à travers le mur noirci.\n",
+        "successfullyRestored": true,
+        "encoded": "   Lorsque vous entrez dans ce petit bâtiment, vous remarquez que les murs noircis sont dus à un incendie qui semblait brûler ici sans surveillance pendant un certain temps.  Il ne reste presque plus rien du toit qui aurait couvert ce bâtiment, et les murs nord et est ont été brûlés à près de la moitié de la hauteur des deux autres murs.    l y a des marchandises brûlées sur le sol et les restes d'un comptoir près de ce qui reste du mur nord semble indiquer que c'était autrefois un magasin.   \\n   La route se trouve à l'ouest à travers le mur noirci.\\n"
+    },
+    "F8F4FF6ADBE800BB": {
+        "originalEncoded": "   You are standing in a lot of mud.  A disgusting smell surrounds\\nthe place, and makes you feel sick.  Small flames sometimes shoot\\nup from the hot mud.  To the west there is a small door.  To the\\nnorth you can see an iron door.\\n",
+        "originalTrimmed": "You are standing in a lot of mud.  A disgusting smell surrounds the place, and makes you feel sick.  Small flames sometimes shoot up from the hot mud.  To the west there is a small door.  To the north you can see an iron door.",
+        "translated": "Vous vous tenez dans beaucoup de boue.  Une odeur dégoûtante entoure l'endroit et vous fait vous sentir malade.  De petites flammes tirent parfois de la boue chaude.  À l'ouest, il y a une petite porte.  Au nord, vous pouvez voir une porte en fer.",
+        "confidence": 1,
+        "restored": "   Vous vous tenez dans beaucoup de boue.  Une odeur dégoûtante entoure l'endroit et vous fait vous sentir malade.    e petites flammes tirent parfois de la boue chaude.  À  l'ouest, il y a une petite porte.  Au  nord, vous pouvez voir une porte en fer.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous vous tenez dans beaucoup de boue.  Une odeur dégoûtante entoure l'endroit et vous fait vous sentir malade.    e petites flammes tirent parfois de la boue chaude.  À  l'ouest, il y a une petite porte.  Au  nord, vous pouvez voir une porte en fer.\\n"
+    },
+    "B3D10690383C00BB": {
+        "originalEncoded": "   The White Queen is a stunningly beautiful woman with dark skin and a mass of\\nlight hair that frames her head like the sun.  This is surely love at first\\nsight for you.\\n",
+        "originalTrimmed": "The White Queen is a stunningly beautiful woman with dark skin and a mass of light hair that frames her head like the sun.  This is surely love at first sight for you.",
+        "translated": "La reine blanche est une femme incroyablement belle à la peau foncée et une masse de cheveux clairs qui encadre la tête comme le soleil.  C'est sûrement le coup de foudre pour vous.",
+        "confidence": 1,
+        "restored": "   La reine blanche est une femme incroyablement belle à la peau foncée et une masse de cheveux clairs qui encadre la tête comme le soleil.  C'est sûrement le coup de foudre pour vous.\n",
+        "successfullyRestored": true,
+        "encoded": "   La reine blanche est une femme incroyablement belle à la peau foncée et une masse de cheveux clairs qui encadre la tête comme le soleil.  C'est sûrement le coup de foudre pour vous.\\n"
+    },
+    "DF986A8EBF5200B3": {
+        "originalEncoded": "A wooden child's toy is lying here, forgotten.",
+        "originalTrimmed": "A wooden child's toy is lying here, forgotten.",
+        "translated": "Un jouet d'enfant en bois est allongé ici, oublié.",
+        "confidence": 1,
+        "restored": "Un jouet d'enfant en bois est allongé ici, oublié.",
+        "successfullyRestored": true,
+        "encoded": "Un jouet d'enfant en bois est allongé ici, oublié."
+    },
+    "960A2FA0917E00B9": {
+        "originalEncoded": "A cup has been set here.",
+        "originalTrimmed": "A cup has been set here.",
+        "translated": "Une tasse a été fixée ici.",
+        "confidence": 1,
+        "restored": "Une tasse a été fixée ici.",
+        "successfullyRestored": true,
+        "encoded": "Une tasse a été fixée ici."
+    },
+    "E88207F00E0200BF": {
+        "originalEncoded": "an iced cappuccino",
+        "originalTrimmed": "an iced cappuccino",
+        "translated": "un cappuccino glacé",
+        "confidence": 1,
+        "restored": "un cappuccino glacé",
+        "successfullyRestored": true,
+        "encoded": "un cappuccino glacé"
+    },
+    "BA09122118D400A4": {
+        "originalEncoded": "   This can is elegantly decorated with garish colors that almost make you\\nsick.  They were probably intended to have a similar effect to the drink inside.\\n\\n",
+        "originalTrimmed": "This can is elegantly decorated with garish colors that almost make you sick.  They were probably intended to have a similar effect to the drink inside.",
+        "translated": "Cette boîte est élégamment décorée de couleurs criardes qui vous rendent presque malade.  Ils étaient probablement destinés à avoir un effet similaire à la boisson à l'intérieur.",
+        "confidence": 1,
+        "restored": "   Cette boîte est élégamment décorée de couleurs criardes qui vous rendent presque malade.  Ils étaient probablement destinés à avoir un effet similaire à la boisson à l'intérieur.\n\n",
+        "successfullyRestored": true,
+        "encoded": "   Cette boîte est élégamment décorée de couleurs criardes qui vous rendent presque malade.  Ils étaient probablement destinés à avoir un effet similaire à la boisson à l'intérieur.\\n\\n"
+    },
+    "FBEED6F5585000C1": {
+        "originalEncoded": "   An old abandoned tree house sits broken and battered on the ground.  It\\nappears that the tree that it was once in has long since toppled and rotted\\naway.  This house would be better off as kindling, rather than a place to play.\\n",
+        "originalTrimmed": "An old abandoned tree house sits broken and battered on the ground.  It appears that the tree that it was once in has long since toppled and rotted away.  This house would be better off as kindling, rather than a place to play.",
+        "translated": "Une vieille maison d'arbres abandonnée se trouve cassée et battue sur le sol.  Il semble que l'arbre dans lequel il était une fois a depuis longtemps renversé et pourri.  Cette maison serait mieux comme allumant, plutôt que comme un endroit pour jouer.",
+        "confidence": 1,
+        "restored": "   Une vieille maison d'arbres abandonnée se trouve cassée et battue sur le sol.  Il semble que l'arbre dans lequel il était une fois a depuis longtemps renversé et pourri.    ette maison serait mieux comme allumant, plutôt que comme un endroit pour jouer.\n",
+        "successfullyRestored": true,
+        "encoded": "   Une vieille maison d'arbres abandonnée se trouve cassée et battue sur le sol.  Il semble que l'arbre dans lequel il était une fois a depuis longtemps renversé et pourri.    ette maison serait mieux comme allumant, plutôt que comme un endroit pour jouer.\\n"
+    },
+    "10DB529338800C1": {
+        "originalEncoded": "a sapphire ring",
+        "originalTrimmed": "a sapphire ring",
+        "translated": "une bague saphir",
+        "confidence": 1,
+        "restored": "une bague saphir",
+        "successfullyRestored": true,
+        "encoded": "une bague saphir"
+    },
+    "BD46C047F17C00AD": {
+        "originalEncoded": "A glowing fortune lies on the ground.",
+        "originalTrimmed": "A glowing fortune lies on the ground.",
+        "translated": "Une fortune brillante se trouve sur le sol.",
+        "confidence": 1,
+        "restored": "Une fortune brillante se trouve sur le sol.",
+        "successfullyRestored": true,
+        "encoded": "Une fortune brillante se trouve sur le sol."
+    },
+    "6E4157A6934A00C7": {
+        "originalEncoded": "A large spider with a look for blood is stuck to the wall here.\\n",
+        "originalTrimmed": "A large spider with a look for blood is stuck to the wall here.",
+        "translated": "Une grande araignée avec un look de sang est collée au mur ici.",
+        "confidence": 1,
+        "restored": "Une grande araignée avec un look de sang est collée au mur ici.\n",
+        "successfullyRestored": true,
+        "encoded": "Une grande araignée avec un look de sang est collée au mur ici.\\n"
+    },
+    "5950EDBB72AC00C8": {
+        "originalEncoded": "black spider gloves dark pair leathery",
+        "originalTrimmed": "black spider gloves dark pair leathery",
+        "translated": "gants d'araignée noire paire foncée coriace",
+        "confidence": 1,
+        "restored": "gants d'araignée noire paire foncée coriace",
+        "successfullyRestored": true,
+        "encoded": "gants d'araignée noire paire foncée coriace"
+    },
+    "3F373A68D72400CA": {
+        "originalEncoded": "A Rusty Ladder",
+        "originalTrimmed": "A Rusty Ladder",
+        "translated": "Une échelle rouillée",
+        "confidence": 1,
+        "restored": "Une échelle rouillée",
+        "successfullyRestored": true,
+        "encoded": "Une échelle rouillée"
+    },
+    "DB09CC0F884000CC": {
+        "originalEncoded": "door",
+        "originalTrimmed": "door",
+        "translated": "porte",
+        "confidence": 0.9036458,
+        "restored": "porte",
+        "successfullyRestored": true,
+        "encoded": "porte"
+    },
+    "C792769AA46600CF": {
+        "originalEncoded": "   As you continue walking through the island, you begin noticing things around\\nyou.  There are coconuts hanging from the palm trees, and you see some\\nweed-like flowers growing through the sand.\\n",
+        "originalTrimmed": "As you continue walking through the island, you begin noticing things around you.  There are coconuts hanging from the palm trees, and you see some weed-like flowers growing through the sand.",
+        "translated": "Alors que vous continuez à marcher dans l'île, vous commencez à remarquer des choses autour de vous.  Il y a des noix de coco suspendues aux palmiers, et vous voyez des fleurs ressemblant à des mauvaises herbes pousser à travers le sable.",
+        "confidence": 1,
+        "restored": "   Alors que vous continuez à marcher dans l'île, vous commencez à remarquer des choses autour de vous.  Il y a des noix de coco suspendues aux palmiers, et vous voyez des fleurs ressemblant à des mauvaises herbes pousser à travers le sable.\n",
+        "successfullyRestored": true,
+        "encoded": "   Alors que vous continuez à marcher dans l'île, vous commencez à remarquer des choses autour de vous.  Il y a des noix de coco suspendues aux palmiers, et vous voyez des fleurs ressemblant à des mauvaises herbes pousser à travers le sable.\\n"
+    },
+    "5835C82CEF7400D2": {
+        "originalEncoded": "The corridor continues North.\\n",
+        "originalTrimmed": "The corridor continues North.",
+        "translated": "Le couloir continue vers le nord.",
+        "confidence": 1,
+        "restored": "Le couloir continue vers le nord.\n",
+        "successfullyRestored": true,
+        "encoded": "Le couloir continue vers le nord.\\n"
+    },
+    "22FECAD3221400D3": {
+        "originalEncoded": "a piece of fungus",
+        "originalTrimmed": "a piece of fungus",
+        "translated": "un morceau de champignon",
+        "confidence": 1,
+        "restored": "un morceau de champignon",
+        "successfullyRestored": true,
+        "encoded": "un morceau de champignon"
+    },
+    "66BD4065D95200D5": {
+        "originalEncoded": "basket",
+        "originalTrimmed": "basket",
+        "translated": "panier",
+        "confidence": 1,
+        "restored": "panier",
+        "successfullyRestored": true,
+        "encoded": "panier"
+    },
+    "96D9AEFDAD4200D6": {
+        "originalEncoded": "door w west",
+        "originalTrimmed": "door w west",
+        "translated": "porte W West",
+        "confidence": 0.94177324,
+        "restored": "porte W West",
+        "successfullyRestored": true,
+        "encoded": "porte W West"
+    },
+    "A29F61E3FC200D7": {
+        "originalEncoded": "   You are now so high up that you begin to feel lightheaded and your nose\\nfeels like it is going to start bleeding.  There aren't even benches to sit\\non here; just bare dirty stone.  The view of the surrounding country is\\nspectacular.  Unfortunately you can barely see the playing field.  There is\\na set of steps here, leading down.\\n",
+        "originalTrimmed": "You are now so high up that you begin to feel lightheaded and your nose feels like it is going to start bleeding.  There aren't even benches to sit on here; just bare dirty stone.  The view of the surrounding country is spectacular.  Unfortunately you can barely see the playing field.  There is a set of steps here, leading down.",
+        "translated": "Vous êtes maintenant si haut que vous commencez à vous sentir étourdi et votre nez a l'impression que cela va commencer à saigner.  Il n'y a même pas de bancs sur lesquels s'asseoir ici; Juste de la pierre sale nue.  La vue du pays environnant est spectaculaire.  Malheureusement, vous pouvez à peine voir le terrain de jeu.  Il y a un ensemble d'étapes ici, en tête.",
+        "confidence": 1,
+        "restored": "   Vous êtes maintenant si haut que vous commencez à vous sentir étourdi et votre nez a l'impression que cela va commencer à saigner.  Il n'y a même pas de bancs sur lesquels s'asseoir ici; Juste de la pierre sale nue.    a vue du pays environnant est spectaculaire.  M  lheureusement, vous pouvez à peine voir le terrain de jeu.  Il  y a un ensemble d'étapes ici, en tête.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes maintenant si haut que vous commencez à vous sentir étourdi et votre nez a l'impression que cela va commencer à saigner.  Il n'y a même pas de bancs sur lesquels s'asseoir ici; Juste de la pierre sale nue.    a vue du pays environnant est spectaculaire.  M  lheureusement, vous pouvez à peine voir le terrain de jeu.  Il  y a un ensemble d'étapes ici, en tête.\\n"
+    },
+    "AD4179D5EE0C00D7": {
+        "originalEncoded": "As you look south you notice a small patch of dry land.\\n",
+        "originalTrimmed": "As you look south you notice a small patch of dry land.",
+        "translated": "Lorsque vous regardez vers le sud, vous remarquez une petite parcelle de terre sèche.",
+        "confidence": 1,
+        "restored": "Lorsque vous regardez vers le sud, vous remarquez une petite parcelle de terre sèche.\n",
+        "successfullyRestored": true,
+        "encoded": "Lorsque vous regardez vers le sud, vous remarquez une petite parcelle de terre sèche.\\n"
+    },
+    "748232D29A9400D7": {
+        "originalEncoded": "   You can't really make out the features.\\n",
+        "originalTrimmed": "You can't really make out the features.",
+        "translated": "Vous ne pouvez pas vraiment distinguer les fonctionnalités.",
+        "confidence": 1,
+        "restored": "   Vous ne pouvez pas vraiment distinguer les fonctionnalités.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous ne pouvez pas vraiment distinguer les fonctionnalités.\\n"
+    },
+    "4B9A7157AC1600D7": {
+        "originalEncoded": "soul trapped under the ice",
+        "originalTrimmed": "soul trapped under the ice",
+        "translated": "âme piégée sous la glace",
+        "confidence": 1,
+        "restored": "âme piégée sous la glace",
+        "successfullyRestored": true,
+        "encoded": "âme piégée sous la glace"
+    },
+    "554D7B639CAE00D9": {
+        "originalEncoded": "a hammer",
+        "originalTrimmed": "a hammer",
+        "translated": "un marteau",
+        "confidence": 0.81569755,
+        "restored": "un marteau",
+        "successfullyRestored": true,
+        "encoded": "un marteau"
+    },
+    "A16E6AE2ECFC00DC": {
+        "originalEncoded": "gate",
+        "originalTrimmed": "gate",
+        "translated": "grille",
+        "confidence": 1,
+        "restored": "grille",
+        "successfullyRestored": true,
+        "encoded": "grille"
+    },
+    "30AF1297EF8200DA": {
+        "originalEncoded": "%s That'll be %d coins, thanks.",
+        "originalTrimmed": "%s That'll be %d coins, thanks.",
+        "translated": "% s Ce sera% d pièces, merci.",
+        "confidence": 1,
+        "restored": "% s Ce sera% d pièces, merci.",
+        "successfullyRestored": true,
+        "encoded": "% s Ce sera% d pièces, merci."
+    },
+    "5EDA16D6C51A00E1": {
+        "originalEncoded": "door captain",
+        "originalTrimmed": "door captain",
+        "translated": "Capitaine de porte",
+        "confidence": 0.9039494,
+        "restored": "Capitaine de porte",
+        "successfullyRestored": true,
+        "encoded": "Capitaine de porte"
+    },
+    "D838DD4A8FCA00E1": {
+        "originalEncoded": "hat straw",
+        "originalTrimmed": "hat straw",
+        "translated": "paille",
+        "confidence": 0.8429223,
+        "restored": "paille",
+        "successfullyRestored": true,
+        "encoded": "paille"
+    },
+    "79BD6D6DC09600E8": {
+        "originalEncoded": "   You are on a trail leading through the forest.  There seems to be a small\\npath leading north into the shadows.  To the east is the forest edge and to\\nthe west the trail leads further into the forest.\\n",
+        "originalTrimmed": "You are on a trail leading through the forest.  There seems to be a small path leading north into the shadows.  To the east is the forest edge and to the west the trail leads further into the forest.",
+        "translated": "Vous êtes sur un sentier menant à travers la forêt.  Il semble y avoir un petit chemin menant au nord dans l'ombre.  À l'est se trouve le bord de la forêt et à l'ouest, le sentier mène plus loin dans la forêt.",
+        "confidence": 1,
+        "restored": "   Vous êtes sur un sentier menant à travers la forêt.  Il semble y avoir un petit chemin menant au nord dans l'ombre.    l'est se trouve le bord de la forêt et à l'ouest, le sentier mène plus loin dans la forêt.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes sur un sentier menant à travers la forêt.  Il semble y avoir un petit chemin menant au nord dans l'ombre.    l'est se trouve le bord de la forêt et à l'ouest, le sentier mène plus loin dans la forêt.\\n"
+    },
+    "973F9EA332AA00E8": {
+        "originalEncoded": "Dusty Room",
+        "originalTrimmed": "Dusty Room",
+        "translated": "Chambre poussiéreuse",
+        "confidence": 1,
+        "restored": "Chambre poussiéreuse",
+        "successfullyRestored": true,
+        "encoded": "Chambre poussiéreuse"
+    },
+    "343299C1F3C00EB": {
+        "originalEncoded": "The stream flows quickly east.\\n",
+        "originalTrimmed": "The stream flows quickly east.",
+        "translated": "Le ruisseau coule rapidement à l'est.",
+        "confidence": 1,
+        "restored": "Le ruisseau coule rapidement à l'est.\n",
+        "successfullyRestored": true,
+        "encoded": "Le ruisseau coule rapidement à l'est.\\n"
+    },
+    "1A1B8A50F73C00EB": {
+        "originalEncoded": "A dark horseman is here, mounted on his black steed.\\n",
+        "originalTrimmed": "A dark horseman is here, mounted on his black steed.",
+        "translated": "Un cavalier sombre est là, monté sur son coursier noir.",
+        "confidence": 1,
+        "restored": "Un cavalier sombre est là, monté sur son coursier noir.\n",
+        "successfullyRestored": true,
+        "encoded": "Un cavalier sombre est là, monté sur son coursier noir.\\n"
+    },
+    "A9100BA0972000ED": {
+        "originalEncoded": "Rippling water is all that you can see in every direction.\\n",
+        "originalTrimmed": "Rippling water is all that you can see in every direction.",
+        "translated": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.",
+        "confidence": 1,
+        "restored": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.\n",
+        "successfullyRestored": true,
+        "encoded": "L'eau ondulant est tout ce que vous pouvez voir dans toutes les directions.\\n"
+    },
+    "F62F717E0C0800EC": {
+        "originalEncoded": "the wild dog",
+        "originalTrimmed": "the wild dog",
+        "translated": "le chien sauvage",
+        "confidence": 1,
+        "restored": "le chien sauvage",
+        "successfullyRestored": true,
+        "encoded": "le chien sauvage"
+    },
+    "7EDE8DB01CB200F0": {
+        "originalEncoded": "a gold coin",
+        "originalTrimmed": "a gold coin",
+        "translated": "une pièce d'or",
+        "confidence": 0.9787216,
+        "restored": "une pièce d'or",
+        "successfullyRestored": true,
+        "encoded": "une pièce d'or"
+    },
+    "5CD3F514D9A600F2": {
+        "originalEncoded": "   A white dome-shaped structure can be seen, adorned with pale green leaves and\\nlarge red blossoms.\\n",
+        "originalTrimmed": "A white dome-shaped structure can be seen, adorned with pale green leaves and large red blossoms.",
+        "translated": "Une structure blanche en forme de dôme peut être vue, ornée de feuilles vert pâle et de grandes fleurs rouges.",
+        "confidence": 1,
+        "restored": "   Une structure blanche en forme de dôme peut être vue, ornée de feuilles vert pâle et de grandes fleurs rouges.\n",
+        "successfullyRestored": true,
+        "encoded": "   Une structure blanche en forme de dôme peut être vue, ornée de feuilles vert pâle et de grandes fleurs rouges.\\n"
+    },
+    "D5331705E2E000F2": {
+        "originalEncoded": "   You are on the ocean.  Large waves rock the boat, and you have a hard time\\nkeeping it from going off-course.  You realize this will be hard work.\\nSeagulls chirp above, and whales spurt water far off into the horizon.  The\\nwind blows constantly here.  The current appears to be winding around a large\\nisland to your northeast.\\n",
+        "originalTrimmed": "You are on the ocean.  Large waves rock the boat, and you have a hard time keeping it from going off-course.  You realize this will be hard work. Seagulls chirp above, and whales spurt water far off into the horizon.  The wind blows constantly here.  The current appears to be winding around a large island to your northeast.",
+        "translated": "Vous êtes sur l'océan.  De grandes vagues bercent le bateau et vous avez du mal à l'empêcher de sortir.  Vous vous rendez compte que ce sera un travail difficile. Les mouettes pénètrent au-dessus et les baleines poussent l'eau loin de l'horizon.  Le vent souffle constamment ici.  Le courant semble être enroulé autour d'une grande île à votre nord-est.",
+        "confidence": 1,
+        "restored": "   Vous êtes sur l'océan.  De grandes vagues bercent le bateau et vous avez du mal à l'empêcher de sortir.    ous vous rendez compte que ce sera un travail difficile. Le\nmouettes pénètrent au-dessus et les baleines poussent l'eau loin de l'horizon.  Le   ent souffle constamment ici.  Le c  urant semble être enroulé autour d'une grande île à votre nord-est.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous êtes sur l'océan.  De grandes vagues bercent le bateau et vous avez du mal à l'empêcher de sortir.    ous vous rendez compte que ce sera un travail difficile. Le\\nmouettes pénètrent au-dessus et les baleines poussent l'eau loin de l'horizon.  Le   ent souffle constamment ici.  Le c  urant semble être enroulé autour d'une grande île à votre nord-est.\\n"
+    },
+    "63E5B1C269DE00F6": {
+        "originalEncoded": "a centurion",
+        "originalTrimmed": "a centurion",
+        "translated": "un centurion",
+        "confidence": 0.9311951,
+        "restored": "un centurion",
+        "successfullyRestored": true,
+        "encoded": "un centurion"
+    },
+    "81C5F242F38600F7": {
+        "originalEncoded": "   You stand upon a flat surface of hard rock, smooth and open.  A solid wall of\\ngranite forms the northern boundary of the area you stand upon, the wall rising\\nhigh into darkness, the heights unfathomable.  There is an eastern and western\\nwall which enlose the rock upon which you stand, however to the south is nothing\\nbut dark, open air which - from this vantage point - appears to lead nowhere.\\nA steady drone from the south echoes up to you, a solid sound that sounds almost\\nlike a very large being letting loose a sigh that doesn't end.\\n",
+        "originalTrimmed": "You stand upon a flat surface of hard rock, smooth and open.  A solid wall of granite forms the northern boundary of the area you stand upon, the wall rising high into darkness, the heights unfathomable.  There is an eastern and western wall which enlose the rock upon which you stand, however to the south is nothing but dark, open air which - from this vantage point - appears to lead nowhere. A steady drone from the south echoes up to you, a solid sound that sounds almost like a very large being letting loose a sigh that doesn't end.",
+        "translated": "Vous vous tenez sur une surface plate de roche dure, lisse et ouverte.  Un mur solide de granit forme la limite nord de la zone sur laquelle vous vous tenez, le mur s'élevant dans l'obscurité, les hauteurs insondables.  Il y a un mur oriental et ouest qui agrandis la roche sur laquelle vous vous tenez, mais au sud n'est rien d'autre que de l'air sombre qui - de ce point de vue - ne semble mener nulle part. Un drone régulier du South fait écho à vous, un son solide qui ressemble presque à un très grand en train de se déchaîner un soupir qui ne se termine pas.",
+        "confidence": 1,
+        "restored": "   Vous vous tenez sur une surface plate de roche dure, lisse et ouverte.  Un mur solide de granit forme la limite nord de la zone sur laquelle vous vous tenez, le mur s'élevant dans l'obscurité, les hauteurs insondables.    l y a un mur oriental et ouest qui agrandis la roche sur laquelle vous vous tenez, mais au sud n'est rien d'autre que de l'air sombre qui - de ce point de vue - ne semble mener nulle part. Un\ndrone régulier du South fait écho à vous, un son solide qui ressemble presque à un très grand en train de se déchaîner un soupir qui ne se termine pas.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous vous tenez sur une surface plate de roche dure, lisse et ouverte.  Un mur solide de granit forme la limite nord de la zone sur laquelle vous vous tenez, le mur s'élevant dans l'obscurité, les hauteurs insondables.    l y a un mur oriental et ouest qui agrandis la roche sur laquelle vous vous tenez, mais au sud n'est rien d'autre que de l'air sombre qui - de ce point de vue - ne semble mener nulle part. Un\\ndrone régulier du South fait écho à vous, un son solide qui ressemble presque à un très grand en train de se déchaîner un soupir qui ne se termine pas.\\n"
+    },
+    "ECEA1AC5A2A00F7": {
+        "originalEncoded": "   You are standing in a blasted space of the motherboard.  The silicon has\\nbeen charred black, and the circuits have been fused closed.  This area is\\nprobably never going to be used again.\\n",
+        "originalTrimmed": "You are standing in a blasted space of the motherboard.  The silicon has been charred black, and the circuits have been fused closed.  This area is probably never going to be used again.",
+        "translated": "Vous vous tenez dans un espace dynamité de la carte mère.  Le silicium a été carbonisé en noir et les circuits ont été fusionnés.  Cette zone ne sera probablement plus jamais utilisée.",
+        "confidence": 1,
+        "restored": "   Vous vous tenez dans un espace dynamité de la carte mère.  Le silicium a été carbonisé en noir et les circuits ont été fusionnés.    ette zone ne sera probablement plus jamais utilisée.\n",
+        "successfullyRestored": true,
+        "encoded": "   Vous vous tenez dans un espace dynamité de la carte mère.  Le silicium a été carbonisé en noir et les circuits ont été fusionnés.    ette zone ne sera probablement plus jamais utilisée.\\n"
+    },
+    "CDD061E4946000F8": {
+        "originalEncoded": "sanctuary",
+        "originalTrimmed": "sanctuary",
+        "translated": "sanctuaire",
+        "confidence": 1,
+        "restored": "sanctuaire",
+        "successfullyRestored": true,
+        "encoded": "sanctuaire"
+    },
+    "2ACA1FB6798600FA": {
+        "originalEncoded": "Joel Kreb, the village carpenter, rests with an axe close at hand.\\n",
+        "originalTrimmed": "Joel Kreb, the village carpenter, rests with an axe close at hand.",
+        "translated": "Joel Kreb, le charpentier du village, repose avec une hache à portée de main.",
+        "confidence": 1,
+        "restored": "Joel Kreb, le charpentier du village, repose avec une hache à portée de main.\n",
+        "successfullyRestored": true,
+        "encoded": "Joel Kreb, le charpentier du village, repose avec une hache à portée de main.\\n"
+    },
+    "3A8EB0AED8E800FA": {
+        "originalEncoded": "A student is furiously taking notes here.\\n",
+        "originalTrimmed": "A student is furiously taking notes here.",
+        "translated": "Un étudiant prend furieusement des notes ici.",
+        "confidence": 1,
+        "restored": "Un étudiant prend furieusement des notes ici.\n",
+        "successfullyRestored": true,
+        "encoded": "Un étudiant prend furieusement des notes ici.\\n"
+    },
+    "26014279D43400FA": {
+        "originalEncoded": "\tDa book of shadows\tn",
+        "originalTrimmed": "Da book of shadows\tn",
+        "translated": "Da Book of Shadows n",
+        "confidence": 0.9126192,
+        "restored": "\tDa Book of Shadows n",
+        "successfullyRestored": true,
+        "encoded": "\tDa Book of Shadows n"
+    },
+    "88BF349808BA00F6": {
+        "originalEncoded": "   These phasers are the standard weapon of Starfleet officers.  It offers\\ndecent damage for its fairly small size.\\n",
+        "originalTrimmed": "These phasers are the standard weapon of Starfleet officers.  It offers decent damage for its fairly small size.",
+        "translated": "Ces phaseurs sont l'arme standard des officiers de Starfleet.  Il offre des dommages décents à sa taille assez petite.",
+        "confidence": 1,
+        "restored": "   Ces phaseurs sont l'arme standard des officiers de Starfleet.  Il offre des dommages décents à sa taille assez petite.\n",
+        "successfullyRestored": true,
+        "encoded": "   Ces phaseurs sont l'arme standard des officiers de Starfleet.  Il offre des dommages décents à sa taille assez petite.\\n"
+    },
+    "C84A4300453E00FE": {
+        "originalEncoded": "waiter",
+        "originalTrimmed": "waiter",
+        "translated": "serveur",
+        "confidence": 0.9895833,
+        "restored": "serveur",
+        "successfullyRestored": true,
+        "encoded": "serveur"
+    },
+    "327A932307C80100": {
+        "originalEncoded": "cloak purple",
+        "originalTrimmed": "cloak purple",
+        "translated": "creux pourpre",
+        "confidence": 1,
+        "restored": "creux pourpre",
+        "successfullyRestored": true,
+        "encoded": "creux pourpre"
+    },
+    "9CA347D534100101": {
+        "originalEncoded": "a bowl of treacle pudding",
+        "originalTrimmed": "a bowl of treacle pudding",
+        "translated": "un bol de pudding à la bouche",
+        "confidence": 1,
+        "restored": "un bol de pudding à la bouche",
+        "successfullyRestored": true,
+        "encoded": "un bol de pudding à la bouche"
+    },
+    "3F2BDE74D1160102": {
+        "originalEncoded": "Circus Path",
+        "originalTrimmed": "Circus Path",
+        "translated": "Chemin de cirque",
+        "confidence": 0.6588077,
+        "restored": "Chemin de cirque",
+        "successfullyRestored": true,
+        "encoded": "Chemin de cirque"
+    },
+    "3B5A18EF4EAE0102": {
+        "originalEncoded": "A colossal falcon is perched on the edge of the cliff.\\n",
+        "originalTrimmed": "A colossal falcon is perched on the edge of the cliff.",
+        "translated": "Un faucon colossal est perché sur le bord de la falaise.",
+        "confidence": 1,
+        "restored": "Un faucon colossal est perché sur le bord de la falaise.\n",
+        "successfullyRestored": true,
+        "encoded": "Un faucon colossal est perché sur le bord de la falaise.\\n"
+    },
+    "16C01D96EE180104": {
+        "originalEncoded": "Walking through DragonSpyre",
+        "originalTrimmed": "Walking through DragonSpyre",
+        "translated": "Marcher dans Dragonspyre",
+        "confidence": 0.98901355,
+        "restored": "Marcher dans Dragonspyre",
+        "successfullyRestored": true,
+        "encoded": "Marcher dans Dragonspyre"
+    },
+    "9A86E42815160107": {
+        "originalEncoded": "a small wicker basket",
+        "originalTrimmed": "a small wicker basket",
+        "translated": "Un petit panier en osier",
+        "confidence": 1,
+        "restored": "Un petit panier en osier",
+        "successfullyRestored": true,
+        "encoded": "Un petit panier en osier"
+    },
+    "F9DF7239B0C40108": {
+        "originalEncoded": "a jewelled green serpent",
+        "originalTrimmed": "a jewelled green serpent",
+        "translated": "un serpent vert bijou",
+        "confidence": 1,
+        "restored": "un serpent vert bijou",
+        "successfullyRestored": true,
+        "encoded": "un serpent vert bijou"
+    },
+    "11F77D572430010A": {
+        "originalEncoded": "%s I don't buy.",
+        "originalTrimmed": "%s I don't buy.",
+        "translated": "% s je n'achète pas.",
+        "confidence": 1,
+        "restored": "% s je n'achète pas.",
+        "successfullyRestored": true,
+        "encoded": "% s je n'achète pas."
+    },
+    "F5E09DF8833E010C": {
+        "originalEncoded": "A small wooden shield is lying on the ground.",
+        "originalTrimmed": "A small wooden shield is lying on the ground.",
+        "translated": "Un petit bouclier en bois est allongé sur le sol.",
+        "confidence": 1,
+        "restored": "Un petit bouclier en bois est allongé sur le sol.",
+        "successfullyRestored": true,
+        "encoded": "Un petit bouclier en bois est allongé sur le sol."
+    },
+    "58E4A9E26486010F": {
+        "originalEncoded": "a crab",
+        "originalTrimmed": "a crab",
+        "translated": "un crabe",
+        "confidence": 0.7081336,
+        "restored": "un crabe",
+        "successfullyRestored": true,
+        "encoded": "un crabe"
+    },
+    "6693848494DE0110": {
+        "originalEncoded": "   A long rock jetty with a lighhouse at its end runs out into the sea.  It\\nappears that climbing the rocks to the jetty's walkway might be hazardous to\\none's health, so another way up must be found.\\n",
+        "originalTrimmed": "A long rock jetty with a lighhouse at its end runs out into the sea.  It appears that climbing the rocks to the jetty's walkway might be hazardous to one's health, so another way up must be found.",
+        "translated": "Une longue jetée rock avec un phare à sa fin s'épuise dans la mer. Il semble que l'escalade des rochers à la passerelle de jetée pourrait être dangereuse pour sa santé, donc une autre voie en haut doit être trouvée.",
+        "confidence": 1,
+        "restored": "   Une longue jetée rock avec un phare à sa fin s'épuise dans la mer.  Il semble que l'escalade des rochers à la passerelle de jetée pourrait être dangereuse pour sa santé, donc une autre voie en haut doit être trouvée.\n",
+        "successfullyRestored": true,
+        "encoded": "   Une longue jetée rock avec un phare à sa fin s'épuise dans la mer.  Il semble que l'escalade des rochers à la passerelle de jetée pourrait être dangereuse pour sa santé, donc une autre voie en haut doit être trouvée.\\n"
+    },
+    "E29FBF5254E80112": {
+        "originalEncoded": "Quiet Home",
+        "originalTrimmed": "Quiet Home",
+        "translated": "Maison tranquille",
+        "confidence": 1,
+        "restored": "Maison tranquille",
+        "successfullyRestored": true,
+        "encoded": "Maison tranquille"
+    },
+    "5BC9C8A5718C0113": {
+        "originalEncoded": "kareem dwarf mercenary",
+        "originalTrimmed": "kareem dwarf mercenary",
+        "translated": "mercenaire nain Kareem",
+        "confidence": 0.7203804,
+        "restored": "mercenaire nain Kareem",
+        "successfullyRestored": true,
+        "encoded": "mercenaire nain Kareem"
+    },
+    "4CD9018901280118": {
+        "originalEncoded": "   The handholds turn out to be quite stable, allowing access to both the top\\nand bottom of the well.  The bottom of the well can be seen now, bone dry.\\n",
+        "originalTrimmed": "The handholds turn out to be quite stable, allowing access to both the top and bottom of the well.  The bottom of the well can be seen now, bone dry.",
+        "translated": "Les poignées se révèlent assez stables, permettant l'accès au haut et au bas du puits.  Le bas du puits peut être vu maintenant, sèche osseux.",
+        "confidence": 1,
+        "restored": "   Les poignées se révèlent assez stables, permettant l'accès au haut et au bas du puits.  Le bas du puits peut être vu maintenant, sèche osseux.\n",
+        "successfullyRestored": true,
+        "encoded": "   Les poignées se révèlent assez stables, permettant l'accès au haut et au bas du puits.  Le bas du puits peut être vu maintenant, sèche osseux.\\n"
+    },
+    "3ADA531DDD80119": {
+        "originalEncoded": "door wooden",
+        "originalTrimmed": "door wooden",
+        "translated": "porte en bois",
+        "confidence": 0.7398398,
+        "restored": "porte en bois",
+        "successfullyRestored": true,
+        "encoded": "porte en bois"
+    },
+    "3958059E2E32011A": {
+        "originalEncoded": "Market Square",
+        "originalTrimmed": "Market Square",
+        "translated": "Carré de marché",
+        "confidence": 0.887168,
+        "restored": "Carré de marché",
+        "successfullyRestored": true,
+        "encoded": "Carré de marché"
+    },
+    "6F1949F7348E011B": {
+        "originalEncoded": "   These black chain mesh gloves have stolen many souls and taken them straight\\nto Hell.\\n",
+        "originalTrimmed": "These black chain mesh gloves have stolen many souls and taken them straight to Hell.",
+        "translated": "Ces gants en maille noire ont volé de nombreuses âmes et les ont emmenées directement en enfer.",
+        "confidence": 1,
+        "restored": "   Ces gants en maille noire ont volé de nombreuses âmes et les ont emmenées directement en enfer.\n",
+        "successfullyRestored": true,
+        "encoded": "   Ces gants en maille noire ont volé de nombreuses âmes et les ont emmenées directement en enfer.\\n"
+    },
+    "241D32747004011E": {
+        "originalEncoded": "A tiny shadow-toddler wanders about, looking for food.\\n",
+        "originalTrimmed": "A tiny shadow-toddler wanders about, looking for food.",
+        "translated": "Un minuscule ombre-todler se promène, à la recherche de nourriture.",
+        "confidence": 1,
+        "restored": "Un minuscule ombre-todler se promène, à la recherche de nourriture.\n",
+        "successfullyRestored": true,
+        "encoded": "Un minuscule ombre-todler se promène, à la recherche de nourriture.\\n"
+    },
+    "DD47F749BBE0121": {
+        "originalEncoded": "You see rows upon rows of dilapidated wooden bleachers.\\n",
+        "originalTrimmed": "You see rows upon rows of dilapidated wooden bleachers.",
+        "translated": "Vous voyez des rangées sur des rangées de gradins en bois délabré.",
+        "confidence": 1,
+        "restored": "Vous voyez des rangées sur des rangées de gradins en bois délabré.\n",
+        "successfullyRestored": true,
+        "encoded": "Vous voyez des rangées sur des rangées de gradins en bois délabré.\\n"
+    },
+    "2CECE486716C0125": {
+        "originalEncoded": "a Marble Fountain",
+        "originalTrimmed": "a Marble Fountain",
+        "translated": "une fontaine en marbre",
+        "confidence": 0.98587424,
+        "restored": "une fontaine en marbre",
+        "successfullyRestored": true,
+        "encoded": "une fontaine en marbre"
+    },
+    "AD51ED0093A00128": {
+        "originalEncoded": "The Pool of the Innocents",
+        "originalTrimmed": "The Pool of the Innocents",
+        "translated": "La piscine des innocents",
+        "confidence": 1,
+        "restored": "La piscine des innocents",
+        "successfullyRestored": true,
+        "encoded": "La piscine des innocents"
+    },
+    "C684940CC7F0012A": {
+        "originalEncoded": "nomad leader",
+        "originalTrimmed": "nomad leader",
+        "translated": "leader nomade",
+        "confidence": 1,
+        "restored": "leader nomade",
+        "successfullyRestored": true,
+        "encoded": "leader nomade"
+    },
+    "2ED500CD036012C": {
+        "originalEncoded": "Dwarven Mines",
+        "originalTrimmed": "Dwarven Mines",
+        "translated": "Mines naines",
+        "confidence": 0.919464,
+        "restored": "Mines naines",
+        "successfullyRestored": true,
+        "encoded": "Mines naines"
+    },
+    "C1A9D17C84F6012F": {
+        "originalEncoded": "   Your mind is pulled away from the look of the granite street and is pulled to\\nthe east where you can smell the best baked goods you can remember.  The only\\nother way to go is to the south.\\n",
+        "originalTrimmed": "Your mind is pulled away from the look of the granite street and is pulled to the east where you can smell the best baked goods you can remember.  The only other way to go is to the south.",
+        "translated": "Votre esprit est éloigné de l'apparence de la rue en granit et est tiré à l'est où vous pouvez sentir les meilleurs produits de boulangerie dont vous vous souvenez.  La seule autre voie à suivre est au sud.",
+        "confidence": 1,
+        "restored": "   Votre esprit est éloigné de l'apparence de la rue en granit et est tiré à l'est où vous pouvez sentir les meilleurs produits de boulangerie dont vous vous souvenez.  La seule autre voie à suivre est au sud.\n",
+        "successfullyRestored": true,
+        "encoded": "   Votre esprit est éloigné de l'apparence de la rue en granit et est tiré à l'est où vous pouvez sentir les meilleurs produits de boulangerie dont vous vous souvenez.  La seule autre voie à suivre est au sud.\\n"
+    },
+    "9107A750633C012F": {
+        "originalEncoded": "   This cavern is very tight, you can barely fit inside it.  It doesn't appear\\nto be leading anywhere special.  It just continues to the north.\\n",
+        "originalTrimmed": "This cavern is very tight, you can barely fit inside it.  It doesn't appear to be leading anywhere special.  It just continues to the north.",
+        "translated": "Cette caverne est très serrée, vous pouvez à peine vous tenir à l'intérieur.  Il ne semble pas mener n'importe où spécial.  Il continue juste au nord.",
+        "confidence": 1,
+        "restored": "   Cette caverne est très serrée, vous pouvez à peine vous tenir à l'intérieur.  Il ne semble pas mener n'importe où spécial.    l continue juste au nord.\n",
+        "successfullyRestored": true,
+        "encoded": "   Cette caverne est très serrée, vous pouvez à peine vous tenir à l'intérieur.  Il ne semble pas mener n'importe où spécial.    l continue juste au nord.\\n"
+    },
+    "3063D57D92F60132": {
+        "originalEncoded": "drain hole drainhole",
+        "originalTrimmed": "drain hole drainhole",
+        "translated": "trou de drainage de drainage",
+        "confidence": 1,
+        "restored": "trou de drainage de drainage",
+        "successfullyRestored": true,
+        "encoded": "trou de drainage de drainage"
+    },
+    "8AA6CF10592C0133": {
+        "originalEncoded": "logan",
+        "originalTrimmed": "logan",
+        "translated": "Logan",
+        "confidence": 1,
+        "restored": "Logan",
+        "successfullyRestored": true,
+        "encoded": "Logan"
+    },
+    "C45B70C108A20134": {
+        "originalEncoded": "A Gentle Breeze",
+        "originalTrimmed": "A Gentle Breeze",
+        "translated": "Une brise douce",
+        "confidence": 1,
+        "restored": "Une brise douce",
+        "successfullyRestored": true,
+        "encoded": "Une brise douce"
+    },
+    "2756F9B26280137": {
+        "originalEncoded": "A delicate bracelet has been left on the ground.",
+        "originalTrimmed": "A delicate bracelet has been left on the ground.",
+        "translated": "Un bracelet délicat a été laissé au sol.",
+        "confidence": 1,
+        "restored": "Un bracelet délicat a été laissé au sol.",
+        "successfullyRestored": true,
+        "encoded": "Un bracelet délicat a été laissé au sol."
+    },
+    "3B94B10065C80138": {
+        "originalEncoded": "A Winding Path Thru the Hills",
+        "originalTrimmed": "A Winding Path Thru the Hills",
+        "translated": "Un chemin sinueux à travers les collines",
+        "confidence": 1,
+        "restored": "Un chemin sinueux à travers les collines",
+        "successfullyRestored": true,
+        "encoded": "Un chemin sinueux à travers les collines"
+    },
+    "B7588C87AC8A0139": {
+        "originalEncoded": "A Bend In The Hallway",
+        "originalTrimmed": "A Bend In The Hallway",
+        "translated": "Un virage dans le couloir",
+        "confidence": 1,
+        "restored": "Un virage dans le couloir",
+        "successfullyRestored": true,
+        "encoded": "Un virage dans le couloir"
+    },
+    "B8DC93889A620139": {
+        "originalEncoded": "The hallway continues.\\n",
+        "originalTrimmed": "The hallway continues.",
+        "translated": "Le couloir continue.",
+        "confidence": 1,
+        "restored": "Le couloir continue.\n",
+        "successfullyRestored": true,
+        "encoded": "Le couloir continue.\\n"
+    },
+    "1A7144ABF38E013C": {
+        "originalEncoded": "pile rocks",
+        "originalTrimmed": "pile rocks",
+        "translated": "pile les rochers",
+        "confidence": 0.9758398,
+        "restored": "pile les rochers",
+        "successfullyRestored": true,
+        "encoded": "pile les rochers"
+    },
+    "7918796F8ACE013D": {
+        "originalEncoded": "   Weak bending trunks support the anemic looking branches and leaves of these\\nstunted willows.  Swaying miserably in the slight breeze, their bark seems to\\ncreak and groan, swamp moss spreading slowly as if to consume them.  Thin\\ngrasses lean pathetically against the lanky trunks, almost like weary children\\nclinging to their mothers.\\n",
+        "originalTrimmed": "Weak bending trunks support the anemic looking branches and leaves of these stunted willows.  Swaying miserably in the slight breeze, their bark seems to creak and groan, swamp moss spreading slowly as if to consume them.  Thin grasses lean pathetically against the lanky trunks, almost like weary children clinging to their mothers.",
+        "translated": "Les troncs de flexion faibles soutiennent les branches et les feuilles anémiques de ces saules rabougris.  Se balançant misérablement dans la légère brise, leur écorce semble grincer et gémir, la mousse de marais se propage lentement comme pour les consommer.  Les graminées minces se penchent pathétiquement contre les troncs dégingandés, presque comme des enfants fatigués accrochés à leurs mères.",
+        "confidence": 0.98964226,
+        "restored": "   Les troncs de flexion faibles soutiennent les branches et les feuilles anémiques de ces saules rabougris.  Se balançant misérablement dans la légère brise, leur écorce semble grincer et gémir, la mousse de marais se propage lentement comme pour les consommer.    es graminées minces se penchent pathétiquement contre les troncs dégingandés, presque comme des enfants fatigués accrochés à leurs mères.\n",
+        "successfullyRestored": true,
+        "encoded": "   Les troncs de flexion faibles soutiennent les branches et les feuilles anémiques de ces saules rabougris.  Se balançant misérablement dans la légère brise, leur écorce semble grincer et gémir, la mousse de marais se propage lentement comme pour les consommer.    es graminées minces se penchent pathétiquement contre les troncs dégingandés, presque comme des enfants fatigués accrochés à leurs mères.\\n"
+    },
+    "4A916D24AB8C013E": {
+        "originalEncoded": "The stalagmites look up menacingly at you.\\n",
+        "originalTrimmed": "The stalagmites look up menacingly at you.",
+        "translated": "Les stalagmites vous regardent de manière menaçante.",
+        "confidence": 1,
+        "restored": "Les stalagmites vous regardent de manière menaçante.\n",
+        "successfullyRestored": true,
+        "encoded": "Les stalagmites vous regardent de manière menaçante.\\n"
+    }
+}
